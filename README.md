@@ -1,6 +1,4 @@
-<snippet>
-  <content><![CDATA[
-# ${1:Carmina Catulli}
+#Carmina Catulli
 Repository of the works of Gaius Valerius Catullus
 ## Installation
 Run:<br>
@@ -9,6 +7,4 @@ Run:<br>
 app will load on port :1701
 ## License
 MIT License
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+
