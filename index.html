@@ -1,0 +1,45 @@
+<html>
+  <head>
+    <base href="/">
+    <title>Carmina Catulli</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <!-- 1. Load libraries -->
+     <!-- Polyfill(s) for older browsers -->
+    <script src="node_modules/core-js/client/shim.min.js"></script>
+    <script src="node_modules/zone.js/dist/zone.js"></script>
+    <script src="node_modules/reflect-metadata/Reflect.js"></script>
+    <script src="node_modules/systemjs/dist/system.src.js"></script>
+    <!-- 2. Configure SystemJS -->
+    <script src="systemjs.config.js"></script>
+    <script>
+      System.import('app').catch(function(err){ console.error(err); });
+    </script>
+  </head>
+  <!-- 3. Display the application -->
+  <body>
+    <my-app>
+      <div class="scholars">
+        <p>
+        BALD heads forgetful of their sins,<br>  
+        Old, learned, respectable bald heads<br>
+        Edit and annotate the lines<br>
+        That young men, tossing on their beds,<br>
+        Rhymed out in love’s despair<br>
+        To flatter beauty’s ignorant ear.
+        </p>
+        <p>
+        They’ll cough in the ink to the world’s end;<br>
+        Wear out the carpet with their shoes<br>
+        Earning respect; have no strange friend;<br>
+        If they have sinned nobody knows.<br>
+        Lord, what would they say<br>
+        Should their Catullus walk that way?
+        </p>
+        <p class="yeats">- W.B. Yeats, 1919</p>
+      </div>
+    </my-app>
+    
+  </body>
+</html>

@@ -1,0 +1,20 @@
+<div *ngIf="carmen">
+	<h2>{{carmen.caput}}</h2>
+		
+		<div>
+			<h3>Latin text:</h3>
+			<div>
+				<p>{{carmen.latin}}<p>
+			</div>
+		</div>
+
+		<div>
+			<h3>English text:</h3>
+			<div>
+				{{carmen.english}}
+			</div>
+		</div>
+		<button (click)="getPrevious()">Previous</button>
+		<button (click)="getPermalink()">Permalink</button>
+		<button (click)="getNext()">Next</button>
+</div>
