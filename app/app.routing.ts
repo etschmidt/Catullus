@@ -1,7 +1,6 @@
 import { ModuleWithProviders }  from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 
-import { CarminaComponent } from './carmina.component';
 import { CatullusComponent } from './catullus.component';
 import { AboutComponent } from './about.component';
 import { CarmenDetailComponent } from './carmen-detail.component';
@@ -9,7 +8,7 @@ import { CarmenDetailComponent } from './carmen-detail.component';
 const appRoutes: Routes = [
 	{
 	  path: '',
-	  redirectTo: '/carmina',
+	  redirectTo: '/5',
 	  pathMatch: 'full'
 	},
 	{
@@ -17,15 +16,11 @@ const appRoutes: Routes = [
 		component: CatullusComponent
 	},
 	{
-		path: 'carmina',
-		component: CarminaComponent
-	},
-	{
 		path: 'about',
 		component: AboutComponent
 	},
 	{
-		path: 'carmina/:id',
+		path: ':id',
 		component: CarmenDetailComponent
 	}
 ];

@@ -1,9 +1,0 @@
-<ul class="carmina">
-	<li *ngFor="let carmen of carmina" [class.selected]="carmen === selectedCarmen" (click)="onSelect(carmen)">
-		<span class="badge">{{carmen.id}}</span>
-		{{carmen.caput}}
-
-	</li>
-</ul>
-
-<my-carmen-detail [carmen]="selectedCarmen"></my-carmen-detail>	
