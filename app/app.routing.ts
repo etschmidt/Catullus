@@ -25,14 +25,9 @@ const appRoutes: Routes = [
 		component: AboutComponent
 	},
 	{
-		path: 'carmen/:id',
+		path: 'carmina/:id',
 		component: CarmenDetailComponent
-	},
-	{
-	  path: 'carmen/0',
-	  redirectTo: '/carmina',
-	  pathMatch: 'full'
-	},
+	}
 ];
 
 export const routing: ModuleWithProviders = RouterModule.forRoot(appRoutes);

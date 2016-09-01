@@ -29,14 +29,14 @@ export class CarmenDetailComponent implements OnInit {
 	}
 
 	getPermalink(): void {
-		this.router.navigate(['/carmen', this.carmen.id]);
+		this.router.navigate(['/carmina', this.carmen.id]);
 	}
 
 	getNext(): void {
-		this.router.navigate(['/carmen', `${this.carmen.id + 1}`]);
+		this.router.navigate(['/carmina', `${this.carmen.id + 1}`]);
 	}
 
 	getPrevious(): void {
-		this.router.navigate(['/carmen', `${this.carmen.id - 1}`]);
+		this.router.navigate(['/carmina', `${this.carmen.id - 1}`]);
 	}
 }
