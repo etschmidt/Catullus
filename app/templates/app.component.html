@@ -1,0 +1,25 @@
+<h1>{{title}}</h1>
+
+<nav>
+	<a routerLink="/catullus" routerLinkActive="active">Catullus</a>
+	<a routerLink="/about" routerLinkActive="active">De situ</a>
+</nav>
+
+<div class="container">
+	<div class="grid-row">
+		<div class="col-md-3">
+
+			<ul class="carmina">
+				<li *ngFor="let carmen of carmina"
+						routerLink="/{{carmen.id}}" routerLinkActive="active">
+					<span class="badge">{{carmen.id}}</span>
+					{{carmen.caput}}
+				</li>
+			</ul>
+		</div>
+
+		<div class="col-md-9">
+			<router-outlet></router-outlet>
+		</div>
+	</div>
+</div>

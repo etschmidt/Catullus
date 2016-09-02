@@ -4,7 +4,6 @@ import { FormsModule }   from '@angular/forms';
 
 import { AppComponent }  from './app.component';
 import { CarmenDetailComponent } from './carmen-detail.component';
-import { CarminaComponent } from './carmina.component';
 import { CatullusComponent } from './catullus.component';
 import { AboutComponent } from './about.component';
 
@@ -20,7 +19,6 @@ import { routing } from './app.routing';
   declarations: [ 
 	  AppComponent, 
 	  CarmenDetailComponent,
-	  CarminaComponent,
     CatullusComponent,
     AboutComponent
   ],
