@@ -35,4 +35,5 @@ export class CarmenDetailComponent implements OnInit {
 	getPrevious(): void {
 		this.router.navigate([`${this.carmen.id - 1}`]);
 	}
+
 }

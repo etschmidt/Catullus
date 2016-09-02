@@ -1,19 +1,29 @@
 <div *ngIf="carmen">
 	<h2>{{carmen.caput}}</h2>
-		
-		<div>
-			<h3>Latin text:</h3>
-			<div>
-				<p>{{carmen.latin}}<p>
-			</div>
-		</div>
 
-		<div>
-			<h3>English text:</h3>
-			<div>
-				{{carmen.english}}
+		<nav>
+			<button (click)="getPrevious()">Previous</button>
+			<button class="btn btn-default" (click)="showEnglish = !showEnglish">Show English</button>
+			<button (click)="getNext()">Next</button>
+		</nav>
+
+		<div class="container" id="text">
+			<div class="row">
+				<div class="col-md-4" id="latin">
+					<h3>Latin text:</h3>
+					<div>
+						{{carmen.latin}}
+					</div>
+					
+				</div>
+
+				<div class="col-md-4" id="english" *ngIf="showEnglish">
+					<h3>English text:</h3>
+					<div>
+						{{carmen.english}}
+					</div>
+				</div>
 			</div>
 		</div>
-		<button (click)="getPrevious()">Previous</button>
-		<button (click)="getNext()">Next</button>
+		
 </div>
