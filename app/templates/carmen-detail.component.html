@@ -2,24 +2,23 @@
 	<h2>{{carmen.caput}}</h2>
 
 		<nav>
-			<button (click)="getPrevious()">Previous</button>
-			<button class="btn btn-default" (click)="showEnglish = !showEnglish">Show English</button>
-			<button (click)="getNext()">Next</button>
+			<button class="btn btn-default" (click)="getPrevious()">Ante</button>
+			<button class="btn btn-default" (click)="showEnglish = !showEnglish">Anglice</button>
+			<button class="btn btn-default" >Commentaria</button>
+			<button class="btn btn-default" (click)="getNext()">Deinde</button>
 		</nav>
 
 		<div class="container" id="text">
 			<div class="row">
 				<div class="col-md-4" id="latin">
-					<h3>Latin text:</h3>
-					<div>
+					<div [innerHTML]="carmen.latin">
 						{{carmen.latin}}
 					</div>
 					
 				</div>
 
 				<div class="col-md-4" id="english" *ngIf="showEnglish">
-					<h3>English text:</h3>
-					<div>
+					<div [innerHTML]="carmen.english">
 						{{carmen.english}}
 					</div>
 				</div>
