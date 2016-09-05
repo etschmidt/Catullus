@@ -28,12 +28,12 @@ export class CarmenDetailComponent implements OnInit {
 		});
 	}
 
-	getNext(): void {
-		this.router.navigate([`${this.carmen.id + 1}`]);
-	}
-
 	getPrevious(): void {
 		this.router.navigate([`${this.carmen.id - 1}`]);
+	}
+	
+	getNext(): void {
+		this.router.navigate([`${this.carmen.id + 1}`]);
 	}
 
 }
