@@ -3,14 +3,14 @@
 <nav>
 	<a routerLink="/catullus" routerLinkActive="active">Catullus</a>
 	<a routerLink="/about" routerLinkActive="active">De situ</a>
+	<input type="text" #listFilter (keyup)="0"/>
 </nav>
 
 <div class="container">
 	<div class="grid-row">
 		<div class="col-md-3">
-
 			<ul class="carmina">
-				<li *ngFor="let carmen of carmina"
+				<li *ngFor="let carmen of carmina | searchPipe:listFilter.value"
 						routerLink="/{{carmen.id}}" routerLinkActive="active">
 					<span class="badge">{{carmen.id}}</span>
 					{{carmen.caput}}

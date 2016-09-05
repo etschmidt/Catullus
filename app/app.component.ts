@@ -4,7 +4,7 @@ import { Router } from '@angular/router';
 
 import { Carmen } from './carmen';
 import { CarmenService } from './carmen.service';
-
+import { SearchPipe } from './search.pipe';
 
 @Component({
 	selector: 'my-app',
@@ -12,7 +12,8 @@ import { CarmenService } from './carmen.service';
 	styleUrls: [
 	'app/styles/app.component.css',
 	'app/styles/carmina.component.css'
-	]
+	],
+	pipes: [SearchPipe]
 })
 
 export class AppComponent implements OnInit {
