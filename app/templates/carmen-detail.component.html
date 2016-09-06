@@ -1,6 +1,6 @@
-<div *ngIf="carmen">
-	<h2>{{carmen.caput}}</h2>
-	<div id="dash">
+<div *ngIf="carmen" class="col-md-10" id="dash">
+	<h2>{{carmen.caput}} - <span>{{carmen.meter}}</span></h2>
+	<div>
 		<nav>
 			<ul class="nav nav-pills">
 				<li (click)="getPrevious()">Ante</li>
