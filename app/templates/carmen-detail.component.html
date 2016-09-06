@@ -1,12 +1,15 @@
 <div *ngIf="carmen">
 	<h2>{{carmen.caput}}</h2>
-
+	<div id="dash">
 		<nav>
-			<button class="btn btn-default" (click)="getPrevious()">Ante</button>
-			<button class="btn btn-default" (click)="showEnglish = !showEnglish">Anglice</button>
-			<button class="btn btn-default" >Commentaria</button>
-			<button class="btn btn-default" (click)="getNext()">Deinde</button>
+			<ul class="nav nav-pills">
+				<li (click)="getPrevious()">Ante</li>
+				<li (click)="showEnglish = !showEnglish">Anglice</li>
+				<li >Commentaria</li>
+				<li (click)="getNext()">Deinde</li>
+			</ul>
 		</nav>
+	</div>
 
 		<div class="container" id="text">
 			<div class="row">

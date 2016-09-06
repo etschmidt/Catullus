@@ -8,7 +8,7 @@ import { CarmenService } from './carmen.service';
 @Component({
 	selector: 'my-carmen-detail',
 	templateUrl: 'app/templates/carmen-detail.component.html', 
-	styleUrls: ['app/styles/carmen-detail.component.css']
+	styleUrls: ['app/styles/app.component.css']
 })
 
 export class CarmenDetailComponent implements OnInit {

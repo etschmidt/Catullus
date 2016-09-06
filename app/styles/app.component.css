@@ -2,33 +2,13 @@ h1 {
   color: #369;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 250%;
+  float: left;
+  margin-left: 2em;
 }
 h2 {
   font-size: 2em;
   margin-top: 0;
   padding-top: 0;
-}
-
-a{
-  text-decoration: none;
-}
-nav a {
-  padding: 5px 10px;
-  text-decoration: none;
-  margin-top: 10px;
-  display: inline-block;
-  background-color: #eee;
-  border-radius: 4px;
-}
-a:visited, a:link {
-  color: #607D8B;
-}
-a:hover {
-  color: #039be5;
-  background-color: #CFD8DC;
-}
-a.active {
-  color: #039be5;
 }
 
 .active {
@@ -41,7 +21,7 @@ a.active {
   padding: 0;
   width: 15em;
 }
-.carmina li {
+li {
   text-decoration: none;
   cursor: pointer;
   position: relative;
@@ -52,11 +32,23 @@ a.active {
   height: 1.6em;
   border-radius: 4px;
 }
-.carmina li.active:hover {
+
+#main li {
+  font-size: 16px;
+  padding: .3em 1em;
+}
+
+#dash li {
+  font-size: 16px;
+  padding: .3em 1em;
+}
+
+li.active:hover {
   background-color: #BBD8DC !important;
   color: white;
 }
-.carmina li:hover {
+
+li:hover {
   color: #607D8B;
   background-color: #DDD;
   left: .1em;
@@ -78,4 +70,12 @@ a.active {
   height: 1.8em;
   margin-right: .8em;
   border-radius: 4px 0 0 4px;
+}
+
+input {
+  margin-left: 15px;
+  border-color: #CFD8DC;
+  border-style: solid;
+  border-radius: 4px;
+  padding-left: .5em; 
 }

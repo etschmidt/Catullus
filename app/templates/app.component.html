@@ -1,10 +1,20 @@
-<h1>{{title}}</h1>
+<div class="container-fluid">
+	<h1>{{title}}</h1>
+</div>
 
-<nav>
-	<a routerLink="/catullus" routerLinkActive="active">Catullus</a>
-	<a routerLink="/about" routerLinkActive="active">De situ</a>
-	<input type="text" placeholder="inquirere" #listFilter (keyup)="0"/>
-</nav>
+<div class="container" id="main">
+	<div class="grid-row">
+	<div class="col-md-4">
+		<nav>
+			<ul class="nav nav-pills">
+				<li routerLink="/catullus" routerLinkActive="active">Catullus</li>
+				<li routerLink="/about" routerLinkActive="active">De situ</li>
+			</ul>	
+		</nav>
+			<input type="text" placeholder="inquirere" #listFilter (keyup)="0"/>
+		</div>
+	</div>
+</div>
 
 <div class="container">
 	<div class="grid-row">
@@ -13,7 +23,7 @@
 				<li *ngFor="let carmen of carmina | searchPipe:listFilter.value"
 						routerLink="/{{carmen.id}}" routerLinkActive="active">
 					<span class="badge">{{carmen.id}}</span>
-					{{carmen.caput}}
+					{{carmen.caput | slice:0:20}}
 				</li>
 			</ul>
 		</div>

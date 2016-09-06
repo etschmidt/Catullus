@@ -10,8 +10,7 @@ import { SearchPipe } from './search.pipe';
 	selector: 'my-app',
 	templateUrl: 'app/templates/app.component.html',
 	styleUrls: [
-	'app/styles/app.component.css',
-	'app/styles/carmina.component.css'
+	'app/styles/app.component.css'
 	],
 	pipes: [SearchPipe]
 })
