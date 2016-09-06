@@ -1,5 +1,6 @@
 <div *ngIf="carmen" class="col-md-10" id="dash">
-	<h2>{{carmen.caput}} - <span>{{carmen.meter}}</span></h2>
+	<h2>{{carmen.caput | uppercase}}</h2>
+	<h4>({{carmen.meter}})</h4>
 	<div>
 		<nav>
 			<ul class="nav nav-pills">
@@ -20,7 +21,7 @@
 					
 				</div>
 
-				<div class="col-md-4" id="english" *ngIf="showEnglish">
+				<div class="col-md-5" id="english" *ngIf="showEnglish">
 					<div [innerHTML]="carmen.english">
 						{{carmen.english}}
 					</div>
