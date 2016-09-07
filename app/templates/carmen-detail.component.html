@@ -5,8 +5,11 @@
 		<nav>
 			<ul class="nav nav-pills">
 				<li (click)="getPrevious()">Ante</li>
-				<li (click)="showEnglish = !showEnglish">Anglice</li>
-				<li >Commentaria</li>
+
+				<li [ngClass]="{'active': showEnglish}" (click)="showEnglish = !showEnglish">Anglice</li>
+
+				<li [ngClass]="{'active': showCommentary}" (click)="showCommentary =!showCommentary">Commentaria</li>
+
 				<li (click)="getNext()">Deinde</li>
 			</ul>
 		</nav>
@@ -29,4 +32,7 @@
 			</div>
 		</div>
 		
+		<div class="container" id="commentary" *ngIf="showCommentary">
+			<img src="{{carmen.commentaria}}"/>
+		</div>
 </div>

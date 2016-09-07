@@ -12,7 +12,7 @@ h2 {
 }
 
 .active {
-  background-color: #CFD8DC !important;
+  background-color: #CFD8DC;
   color: white;
 }
 .carmina {
@@ -44,7 +44,7 @@ li {
 }
 
 li.active:hover {
-  background-color: #BBD8DC !important;
+  background-color: #BBD8DC;
   color: white;
 }
 

@@ -5,6 +5,7 @@ export const CARMINA: Carmen[] = [
 		id: 1,
 		caput: 'I. ad Corneliam',
 		meter: 'Phalaecean',
+		commentaria: 'app/img/loremIpsum.jpg',
 		latin: `Cui dono lepidum novum libellum<br>
 arida modo pumice expolitum?<br>
 Corneli, tibi: namque tu solebas<br>
@@ -28,6 +29,7 @@ plus uno maneat perenne saeclo!`,
 		id: 2,
 		caput: 'II. fletus passeris Lesbiae',
 		meter: 'Phalaecean',
+		commentaria: 'none',
 		latin: `Passer, deliciae meae puellae,<br>
 quicum ludere, quem in sinu tenere,<br>
 cui primum digitum dare adpetenti<br>
@@ -58,6 +60,7 @@ quod zonam solvit diu ligatam.<br>`,
 		id: 3,
 		caput: 'III. fletus passeris Lesbiae',
 		meter: 'Phalaecean',
+		commentaria: 'none',
 		latin: `Lugete, o Veneres Cupidinesque<br>
 et quantum est hominum venustiorum!<br>
 passer mortuus est meae puellae,<br>
@@ -93,6 +96,7 @@ flendo turgiduli rubent ocelli.`,
 		id: 4,
 		caput: 'IV. de phasello',
 		meter: 'Iambic trimeter',
+		commentaria: 'none',
 		latin: `Phasellus ille, quem videtis, hospites,<br>
 ait fuisse navium celerrimus,<br>
 neque ullius natantis impetum trabis<br>
@@ -147,6 +151,7 @@ gemelle Castor et gemelle Castoris.<br>`,
 		id: 5,
 		caput: 'V. ad Lesbiam',
 		meter: 'Phalaecean',
+		commentaria: 'none',
 		latin: `Vivamus, mea Lesbia, atque amemus,<br>
 rumoresque senum severiorum<br>
 omnes unius aestimemus assis.<br>
@@ -175,6 +180,7 @@ cum tantum sciat esse basiorum.<br>`,
 		id: 6,
 		caput: 'VI. ad Flavium',
 		meter: 'Phalaecean',
+		commentaria: 'none',
 		latin: `Flavi, delicias tuas Catullo,<br>
 ni sint inlepidae atque inelegantes,<br>
 velles dicere, nec tacere posses.<br>
@@ -198,6 +204,7 @@ ad caelum lepido vocare versu.<br>`,
 		id: 7,
 		caput: 'V. ad Lesbiam',
 		meter: 'Phalaecean',
+		commentaria: 'none',
 		latin: `Quaeris quot mihi basiationes<br>
 tuae, Lesbia, sint satis superque.<br>
 quam magnus numerus Libyssae harenae<br>
@@ -216,6 +223,7 @@ possint nec mala fascinare lingua.<br>`,
 		id: 8,
 		caput: 'VIII. ad se ipsum',
 		meter: 'Choliambic',
+		commentaria: 'none',
 		latin: `Miser Catulle, desinas ineptire,<br>
 et quod vides perisse perditum ducas.<br>
 fulsere quondam candidi tibi soles,<br>
@@ -241,6 +249,7 @@ at tu, Catulle, destinatus obdura.<br>`,
 		id: 9,
 		caput: 'IX. ad Veranium',
 		meter: 'Phalaecean',
+		commentaria: 'none',
 		latin: `Verani, omnibus e meis amicis<br>
 antistans mihi milibus trecentis,<br>
 venistine domum ad tuos penates<br>
@@ -258,6 +267,7 @@ quid me laetius est beatiusve?<br>`,
 		id: 10,
 		caput: 'X. ad Varum',
 		meter: 'Phalaecean',
+		commentaria: 'none',
 		latin: `Varus me meus ad suos amores<br>
 visum duxerat e foro otiosum,<br>
 scortillum, ut mihi tunc repente visum est,<br>
@@ -298,6 +308,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 11,
 		caput: 'XI. ad Furium et Aurelium',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `Furi et Aureli comites Catulli,`,
 		english: `---`
 	},
@@ -305,6 +316,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 12,
 		caput: 'XII. ad Matrucinum Asinium',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -312,6 +324,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 13,
 		caput: 'XIII. ad Fabullum',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -319,6 +332,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 14,
 		caput: 'XIV. ad Calvum poetam',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -326,6 +340,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 15,
 		caput: 'XV. ad Aurelium',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -333,6 +348,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 16,
 		caput: 'XVI. ad Aurelium et Furium',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -340,6 +356,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 17,
 		caput: 'XVII.',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -347,6 +364,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 21,
 		caput: 'XXI. ad Aurelium',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -354,6 +372,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 22,
 		caput: 'XXII. ad Varum',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -361,6 +380,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 23,
 		caput: 'XXIII. ad Furium',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -368,6 +388,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 24,
 		caput: 'XXIV. ad Iuventium',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -375,6 +396,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 25,
 		caput: 'XXV. ad Thallum',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -382,6 +404,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 26,
 		caput: 'XXVI. ad Furium',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},		
@@ -389,6 +412,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 27,
 		caput: 'XXVII. ad pincernam suum',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},
@@ -396,6 +420,7 @@ per quam non licet esse neglegentem.”<br>`,
 		id: 28,
 		caput: '---',
 		meter: 'none',
+		commentaria: 'none',
 		latin: `---`,
 		english: `---`
 	},					
