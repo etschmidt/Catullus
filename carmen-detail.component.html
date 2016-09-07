@@ -1,0 +1,38 @@
+<div *ngIf="carmen" class="col-md-10" id="dash">
+	<h2>{{carmen.caput | uppercase}}</h2>
+	<h4>({{carmen.meter}})</h4>
+	<div>
+		<nav>
+			<ul class="nav nav-pills">
+				<li (click)="getPrevious()">Ante</li>
+
+				<li [ngClass]="{'active': showCommentary}" (click)="showCommentary =!showCommentary">Commentaria</li>
+
+				<li [ngClass]="{'active': showEnglish}" (click)="showEnglish = !showEnglish">Anglice</li>
+
+				<li (click)="getNext()">Deinde</li>
+			</ul>
+		</nav>
+	</div>
+
+		<div class="container" id="text">
+			<div class="row">
+				<div class="col-md-4" id="latin">
+					<div [innerHTML]="carmen.latin">
+						{{carmen.latin}}
+					</div>
+					
+				</div>
+
+				<div class="col-md-5" id="english" *ngIf="showEnglish">
+					<div [innerHTML]="carmen.english">
+						{{carmen.english}}
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<div class="container" id="commentary" *ngIf="showCommentary">
+			<img src="{{carmen.commentaria}}"/>
+		</div>
+</div>
