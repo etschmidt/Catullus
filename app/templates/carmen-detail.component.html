@@ -1,14 +1,14 @@
-<div *ngIf="carmen" class="col-md-10" id="dash">
+<div *ngIf="carmen" class="col-md-12" class="container">
 	<h2>{{carmen.caput | uppercase}}</h2>
 	<h4>({{carmen.meter}})</h4>
-	<div>
-		<nav>
+	<div id="dash">
+		<nav class="nav">
 			<ul class="nav nav-pills">
 				<li (click)="getPrevious()">Ante</li>
 
-				<li [ngClass]="{'active': showEnglish}" (click)="showEnglish = !showEnglish">Anglice</li>
-
 				<li [ngClass]="{'active': showCommentary}" (click)="showCommentary =!showCommentary">Commentaria</li>
+
+				<li [ngClass]="{'active': showEnglish}" (click)="showEnglish = !showEnglish">Anglice</li>
 
 				<li (click)="getNext()">Deinde</li>
 			</ul>
