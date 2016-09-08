@@ -5,7 +5,7 @@ export const CARMINA: Carmen[] = [
 		id: 1,
 		caput: 'I. ad Corneliam',
 		meter: 'Phalaecean',
-		commentaria: 'app/img/loremIpsum.jpg',
+		commentaria: 'app/img/1.jpg',
 		latin: `Cui dono lepidum novum libellum<br>
 arida modo pumice expolitum?<br>
 Corneli, tibi: namque tu solebas<br>
