@@ -449,21 +449,30 @@ qui illius culpa cecidit velut prati<br>
 ultimi flos, praetereunte postquam<br>
 tactus aratro est.<br>
 </p>`,
-		english: `FURIUS and Aurelius, comrades of Catullus, whether he <br>
-            shall make his way among the farthest Indians, where the <br>
-            I shore is beaten by the far-resounding eastern wave ; or among <br>
-            the Hyrcani, and the soft Arabs, or the Sacæ and the Par­ <br>
-            thian archers, or where the seven-mouthed Nile colours the <br>
-            sea; or whether he shall march across the lofty Alps, visiting <br>
-            the monuments of the great Cæsar, the Gallic Rhine and the <br>
-            horrible and remotest Britons ; you who are ready to venture <br>
-            with him upon all enterprises whatever, which the will of <br>
-            the gods shall impose, bear these few unwelcome words to my <br>
-            girl: let her live and be happy with her paramours, three <br>
-            hundred of whom she embraces, loving not one of them truly, <br>
-            but wearing them all out alike.3 Let her not regard my love 4 <br>
-            as before, a love which has fallen like a flower on the verge <br>
-            of the meadow, after it has been touched by the passing <br>`
+		english: `Furius and Aurelius, you friends of Catullus,<br>
+whether he penetrates farthest India,<br>
+where the Eastern waves strike the shore<br>
+with deep resonance,<br>
+or among the Hyrcanians and supple Arabs,<br>
+or Sacians and Parthian bowmen,<br>
+or where the seven-mouthed Nile<br>
+colours the waters,<br>
+or whether he’ll climb the high Alps,<br>
+viewing great Caesar’s monuments,<br>
+the waters of Gallic Rhine,<br>
+and the furthest fierce Britons,<br>
+whatever the will of the heavens<br>
+brings, ready now for anything,<br>
+tell my girl this in a few<br>
+ill-omened words.<br>
+Let her live and be happy with her adulterers,<br>
+hold all three-hundred in her embrace,<br>
+truly love-less, wearing them all down<br>
+again and again: let her not look for<br>
+my love as before,<br>
+she whose crime destroyed it, like the last<br>
+flower of the field, touched once<br>
+by the passing plough.<br>`
 	},
 	{ 
 		id: 12,
@@ -487,18 +496,22 @@ nam sudaria Saetaba ex Hiberis<br>
 miserunt mihi muneri Fabullus<br>
 et Veranius: haec amem necesse est<br>
 et Veraniolum meum et Fabullum.<br>`,
-		english: `MARRUCINUS Asinius, you use your left hand2 in no credit­ <br>
-            able manner in hours of mirth and wine. You filch the <br>
-            napkins of those who are at all heedless. Do you think this <br>
-            witty? You do not perceive, silly fellow, how low and un­ <br>
-            becoming a thing it is. You do not believe me ? Believe <br>
-            your brother Pollio,3 who would be glad if your thefts could <br>
-            be got rid of even at the cost of a talent: for he is a youth ac­ <br>
-            complished in pleasantries.4 Wherefore expect either three <br>
-            hundred lampoons, or send me back my napkin, which I <br>
-            regard not for its intrinsic value, but as a souvenir of my <br>
-            comrade. For Fabullus and Verannius sent me napkins as <br>
- as I do my Verannius and Fabullus. `
+		english: `Asinius Marrucinus, you don’t employ<br>
+your left hand too well: in wine and jest<br>
+you take neglected table-linen.<br>
+Do you think that’s witty? Get lost, you fool:<br>
+it’s such a sordid and such an unattractive thing.<br>
+Don’t you believe me? Believe Pollionus<br>
+your brother, who wishes your thefts<br>
+could be fixed by money: he’s a boy<br>
+truly stuffed with wit and humour.<br>
+So expect three hundred hendecasyllables<br>
+or return my napkin, whose value<br>
+doesn’t disturb me, truly,<br>
+it’s a remembrance of my friends.<br>
+Fabullus and Veranius sent me the gift,<br>
+napkins from Spain: they must be cherished<br>
+as my Veranius and Fabullus must be.<br>`
 	},		
 	{ 
 		id: 13,
@@ -519,17 +532,20 @@ nam unguentum dabo, quod meae puellae<br>
 donarunt Veneres Cupidinesque,<br>
 quod tu cum olfacies, deos rogabis<br>
 totum ut te faciant, Fabulle, nasum.<br>`,
-		english: `You will sup well at my house in a few days, my Fabullus, <br>
-            if the gods favour you, provided you bring with you a good <br>
-            and copious supper, not forgetting a fair girl, and wine, and <br>
-            wit, and all manner of laughter. These things I say if you <br>
-            bring with you, my bonny man, you shall sup well; for the <br>
-            purse of your Catullus is full of cobwebs. But in return you <br>
-            - shall have what you may call a very love,' or if there be any­ <br>
-            thing else sweeter or more elegant, you may call it by that <br>
-            name. For I will give you an unguent2 which the Loves <br>
-            and Desires bestowed on my girl; and when you smell it, <br>
-            you will beseech the gods, Fabullus, to make you all nose.</p>`
+		english: `You’ll dine well, in a few days, with me,<br>
+if the gods are kind to you, my dear Fabullus,<br>
+and if you bring lots of good food with you,<br>
+and don’t come without a pretty girl<br>
+and wine and wit and all your laughter.<br>
+I say you’ll dine well, and charmingly,<br>
+if you bring all that: since your Catullus’s<br>
+purse alas is full of cobwebs.<br>
+But accept endearments in return for the wine<br>
+or whatever’s sweeter and finer:<br>
+since I’ll give you a perfume my girl<br>
+was given by the Loves and Cupids,<br>
+and when you’ve smelt it, you’ll ask the gods<br>
+to make you, Fabullus, all nose.<br>`
 	},		
 	{ 
 		id: 14,
@@ -563,24 +579,30 @@ saecli incommoda, pessimi poetae.<br>
 <P>Si qui forte mearum ineptiarum<br>
 lectores eritis manusque vestras<br>
 non horrebitis admovere nobis,</P>`,
-		english: `<p>DID I not love you more than my eyes, most pleasant <br>
-            Calvus, I should hate you with Vatinian hatred 4 for that pre­ <br>
-            sent of yours. For what have I done, or what have I said, <br>
-            that you should cruelly plague me with so many poets? May <br>
-            the gods heap many evils on that client who sent you such a <br>
-            lot of villains. But if, as I suspect, Sulla, the commentator,<br>
-has given you this new an l choice present, I am not vexed, but <br>
-            delighted that your labours were not spent in vain.1 Great <br>
-            gods, what a horrible and accursed book ! And this forsooth <br>
-            you have sent to your Catullus, that he might be bored to <br>
-            death all day long in the Saturnalia,2 the best of our festivals. <br>
-            No, no, wag, this shall not pass with you so; for as soon as <br>
-            it dawns I will run to the booksellers' stalls; I will collect <br>
-            your Cæssii, your Aquinii, Suffenus, and all sorts of poisonous <br>
-            trash, and pay you back with these torments.</p>
-          <p>Fare you well, meanwhile, hence with you, begone to <br>
-            whence you came in evil hour, pests of the age, you execrable <br>
-            poets.</p>`
+		english: `If I didn’t love you more than my eyes,<br>
+most delightful Calvus, I’d dislike you<br>
+for this gift, with a true Vatinian dislike:<br>
+Now what did I do and what did I say,<br>
+to be so badly cursed with poets?<br>
+Let the gods send ill-luck to that client<br>
+who sent you so many wretches.<br>
+But if, as I guess, Sulla the grammarian<br>
+gave you this new and inventive gift,<br>
+that’s no harm to me, it’s good and fine<br>
+that your efforts aren’t all wasted.<br>
+Great gods, an amazing, immortal book!<br>
+That you sent, of course, to your Catullus,<br>
+so he might immediately die,<br>
+on the optimum day, in the Saturnalia!<br>
+No you won’t get away with this crime.<br>
+Now when it’s light enough I’ll run<br>
+to the copyists bookstalls, I’ll acquire<br>
+Caesius, Aquinus, Suffenus,<br>
+all of the poisonous ones.<br>
+And I’ll repay you for this suffering.<br>
+Meanwhile farewell take yourself off, there,<br>
+whence your unlucky feet brought you,<br>
+cursed ones of the age, worst of poets.<br>`
 	},		
 	{ 
 		id: 15,
@@ -606,20 +628,25 @@ ut nostrum insidiis caput lacessas,<br>
 ah tum te miserum malique fati,<br>
 quem attractis pedibus patente porta<br>
 percurrent raphanique mugilesque.<br>`,
-		english: `I COMMEND myself and my love to you, Aurelius, with this <br>
-            modest request; if ever your heart was set upon an object <br>
-            and longed to find it chaste and unsullied, watch over the <br>
-            chastity of this ward I commit to your care, and keep it safe ;— <br>
-            not from the general public: I have no fear of men who hurry <br>
-            here and there through the streets, engrossed with business; <br>
-            but I fear you and your everlasting priapism, that spares <br>
-            neither fair nor foul. Expend it abroad, how you please and <br>
-            on whom you please; I except this one object alone, and not <br>
-            unreasonably, as I think. But if in natural depravity and <br>
-            the delirium of concupiscence, you proceed to the unpardonable <br>
-            crime of inveigling one who is dear to me as my own life, oh <br>
-            then merciless will be your fate: feet bound-doors open­ <br>
-            radishes and mullets !`
+		english: `I commend myself and my love to you,<br>
+Aurelius. I ask for modest indulgence,<br>
+so, if you’ve ever had a desire in your mind<br>
+you’ve pursued chastely and purely,<br>
+keep this boy of mine modestly safe,<br>
+I don’t speak to the masses – nothing to fear<br>
+from those who pass to and fro in the streets<br>
+occupied with their business –<br>
+truly the fear’s of you and your cock<br>
+dangerous to both good and bad boys.<br>
+Shake it about as you please, and with as much<br>
+force as you please, wherever you choose, outside:<br>
+I except him from that, with modesty, I think.<br>
+But if tempests of mind, and mad passion<br>
+impel you to too much sin, you wretch,<br>
+so you fill my boy’s head with deceptions,<br>
+then let misery, and evil fate, be yours!<br>
+Of him whom, with feet dragged apart, an open door,<br>
+radishes and mullets pass through.<br>`
 	},		
 	{ 
 		id: 16,
@@ -640,18 +667,20 @@ qui duros nequeunt movere lumbos.<br>
 vos quod milia multa basiorum<br>
 legistis, male me marem putatis?<br>
 pedicabo ego vos et irrumabo.<br>`,
-		english: `I WILL trim you and trounce you,1 Aurelius and Furius, <br>
-            you infamous libertines, who judge from my verses that I am <br>
-            myself indecent because they are a little voluptuous; for it <br>
-            becomes the true poet2 to be himself chaste; but it is not at <br>
-            all necessary that his verses should be so.3 On the contrary, <br>
-the very thing to give them zest and charm, is that they be a <br>
-            little voluptuous and indecent, and able to excite prurience, <br>
-            I do not say in beardless boys, but in the hardened fibres of <br>
-            veterans in debauchery. You, because you have read of many <br>
-            thousand kisses in my lines, think me effeminate ; but do not <br>
-            presume upon my written follies; hands off! or I will give <br>
-            you awkward proof of my manhood.`
+		english: `I’ll fuck you and bugger you,<br>
+Aurelius the pathic, and sodomite Furius,<br>
+who thought you knew me from my verses,<br>
+since they’re erotic, not modest enough.<br>
+It suits the poet himself to be dutifully chaste,<br>
+his verses not necessarily so at all:<br>
+which, in short then, have wit and good taste<br>
+even if they’re erotic, not modest enough,<br>
+and as for that can incite to lust,<br>
+I don’t speak to boys, but to hairy ones<br>
+who can’t move their stiff loins.<br>
+You, who read all these thousand kisses,<br>
+you think I’m less of a man?<br>
+I’ll fuck you, and I’ll bugger you.<br>`
 	},		
 	{ 
 		id: 17,
@@ -684,31 +713,33 @@ nunc eum volo de tuo ponte mittere pronum,<br>
 si pote stolidum repente excitare veternum<br>
 et supinum animum in gravi derelinquere caeno,<br>
 ferream ut soleam tenaci in voragine mula.<br>`,
-		english: `0 TOWN, that wishest to exhibit games on a long bridge,1 <br>
-            and art ready to dance, but fearest the crazy legs of the little <br>
-            bridge standing on piles, lest it fall flat beyond recovery, and <br>
-            sink in the deep pool; may a good bridge be made for thee <br>
-            after thy own heart, one on which even the Salian rites 2 may <br>
-            be undertaken ; but then, 0 town, grant me this most laughter- <br>
-            moving boon.</p>
-          <p>I want a certain townsman of mine to be pitched neck and <br>
-            heels from the bridge into the water; and just in that part <br>
-            where the boggy slime is the bluest and deepest in the whole <br>
-            lake and fetid marsh. The man is utterly witless; he has <br>
-            not as much sense as a child of two years old, rocked to sleep <br>
-            on his father's arm. Though he has to wife a girl in her <br>
-            earliest bloom, and though this girl, more delicate than a <br>
-            tender kid, should be watched more carefully than the ripest <br>
-            grapes, he lets her play as she will, and never cares a rush ; <br>
-            nor does he bestir himself on his own part, but lies like the <br>
-            felled alder in a Ligurian ditch,3 as wholly insensible as though <br>
-            he had no wife at all. Just so this dolt of mine sees nothing, <br>
-            hears nothing ; he does not even know who he is, or whether <br>
-            he exists or not.</p>
-          <p>Now I want to send him head foremost from the bridge, <br>
-            in order to see if it be possible suddenly to rouse the stolid <br>
-numskull, and leave his inert soul behind in the heavy mud, <br>
-            as the mule leaves her iron shoe1 in the stiff slough.</p>`
+		english: `O Cologna, who want a long bridge to sport on,<br>
+and are ready to dance, though you fear<br>
+the useless bridge-props with their<br>
+much-patched standing timber,<br>
+lest they tumble and lie in deep mud:<br>
+let a good bridge be made for you as you desire<br>
+where even leap-frogging priests are safe: but<br>
+Cologna, give me that greatest gift, a good laugh.<br>
+I want a fellow-citizen of mine to go head over heels<br>
+straight into the deep mire from your bridge,<br>
+since truly the whole pool and the putrid marsh<br>
+is the blackest and deepest of chasms.<br>
+The man’s totally dull, knows no more than<br>
+a two-year-old child, asleep in its father’s trembling arms.<br>
+Who, though he’s married a girl in her first flowering,<br>
+a girl more delicate than a pretty little kid,<br>
+needing to be tended more carefully than choicest grapes,<br>
+let’s her play as she wishes, doesn’t care a fig,<br>
+hasn’t risen to the occasion, but like an alder<br>
+in a Ligurian ditch, crippled by the axe,<br>
+feels as much of it all as if there were no woman there:<br>
+Such is his stupor he doesn’t see, or hear me, he,<br>
+who doesn’t know who he is, or whether he is or not.<br>
+Now I want to toss him headlong from your bridge,<br>
+if it’s possible suddenly to raise that stupefied dullness,<br>
+and abandon that indolent mind in the heavy bog,<br>
+as mules cast shoes into tenacious depths.<br>`
 	},		
 	{ 
 		id: 21,
@@ -728,16 +759,19 @@ nunc ipsum id doleo, quod esurire,<br>
 ah me me, puer et sitire discet.<br>
 quare desine, dum licet pudico,<br>
 ne finem facias, sed irrumatus.<br>`,
-		english: `AURELIUS, chief furnisher of famine-spread boards,1 past, <br>
-            present, and to come, you are bent on debauching my young <br>
-            friend ; and you make no secret of it; for you never quit the <br>
-            poor thing's side, nor lose an opportunity of toying and try­ <br>
-            ing all the arts of seduction. But all in vain ; for my venge­ <br>
-            ance will anticipate your insidious purposes. Now if you <br>
-            did all this upon a full stomach, I might have patience; but <br>
-what vexes me is, that under your tuition the poor child must <br>
-            learn to bear hunger and thirst. Desist, now, I warn you, <br>
-            whilst you can do so with honour, lest</p>`
+		english: `Aurelius, father of hungers,<br>
+you desire to fuck,<br>
+not just these, but whoever my friends<br>
+were, or are, or will be in future years.<br>
+not secretly: now at the same time as you joke<br>
+with one, you try clinging to him on every side.<br>
+In vain: now my insidious cock<br>
+will bugger you first.<br>
+And, if you’re filled, I’ll say nothing:<br>
+Now I’m grieving for him: you teach<br>
+my boy, mine, to hunger and thirst.<br>
+So lay off: while you’ve any shame,<br>
+or you will end up being buggered.<br>`
 	},		
 	{ 
 		id: 22,
@@ -765,25 +799,27 @@ nimirum idem omnes fallimur, neque est quisquam<br>
 quem non in aliqua re videre Suffenum<br>
 possis.  Suus cuique attributus est error,<br>
 sed non videmus manticae quod in tergo est.<br>`,
-		english: `THAT Suffenus, whom you, Varus, know well, is a nice <br>
-            fellow, a pleasant talker, and a wit ;1 moreover he makes no <br>
-            end of verses. I believe he has written ten thousand or <br>
-            more, nor are they scribbled as usual on palimpsest.2 0 no! <br>
-            royal paper, new covers, new bosses, red bands, the sheets <br>
-            ruled with lead, and the whole smoothed with pumice. When <br>
-            you read these books, then that graceful and witty Suffenus <br>
-            seems to you again a downright goatherd3 or a ditcher, so ex­ <br>
-            treme is the change. What are we to think of this ? He whc <br>
-            but now seemed a professed jester, or whatever else is more <br>
-            glib and flippant, becomes stupider than a stupid country clown <br>
-            as soon as he puts his hand to poetry ; and this same man is <br>
-            never so happy as when he is writing poetry, he so delights in <br>
-            himself, so admires himself.4 Doubtless we are all likewise <br>
-            fallible, nor is there any one whom you may not perceive to <br>
-            be a Suffenus in some particular. Each has his own assign- <br>
-ed failing; but W3 do not see what is in the wallet on our <br>
-            back.
-`
+		english: `Varus, that Suffenus, thoroughly known to us,<br>
+is a man who’s charming, witty, urbane,<br>
+and the same man for ages has penned many verses.<br>
+I think he’s written a thousand, ten thousand, or more,<br>
+not those that are done on cheap manuscript<br>
+paper: but princely papyri, new books,<br>
+new roller ends, new red ties for the parchment,<br>
+lead-ruled and smoothed all-over with pumice.<br>
+When you read them, that lovely urbane Suffenus<br>
+turns into a goat-herd or a ditch-digger:<br>
+he’s so altered and strange.<br>
+What should we think of it? He who might just now<br>
+have been playing the fool, being witty with the thing,<br>
+the same man’s crude, crude as a bumpkin,<br>
+he mentions his poems as well, nor is there ever<br>
+likewise anything as happy as the poems he writes:<br>
+he delights in himself so, is so amazed by himself.<br>
+Of course we’re all deceived in the same way, and<br>
+there’s no one who can’t somehow or other be seen<br>
+as a Suffenus. Whoever it is, is subject to error:<br>
+we don’t see the pack on our own back.<br>`
 	},		
 	{ 
 		id: 23,
@@ -817,7 +853,33 @@ haec tu commoda tam beata, Furi,<br>
 noli spernere nec putare parvi,<br>
 et sestertia quae soles precari<br>
 centum desine: nam satis beatu's.<br>`,
-		english: `---`
+		english: `Furius, you who’ve neither slaves nor cash<br>
+nor beetles nor spiders nor fire,<br>
+truly have a father and step-mother,<br>
+whose teeth can chew like flints:<br>
+that’s fine for you, and your father<br>
+and your father’s wooden wife.<br>
+No wonder: since you’re all well,<br>
+good digestion, nothing to fear,<br>
+no flames, no weighty disasters,<br>
+no wicked deeds, no threat of poison,<br>
+no chance of further dangers.<br>
+And you’ve a body drier than bone<br>
+or whatever is most desiccated<br>
+by heat and cold and hunger.<br>
+Why wouldn’t you be well and happy?<br>
+You’ve no sweat, no phlegm,<br>
+or mucus, or evil cold in the head.<br>
+To this cleanliness add more cleanliness,<br>
+your arse is purer than a little salt-cellar,<br>
+and doesn’t crap ten times in a year:<br>
+and your shit’s harder than beans or pebbles.<br>
+So if you rub it and crush it between your fingers,<br>
+you can’t stain a single finger:<br>
+it all suits you so happily Furius,<br>
+don’t despise it, or consider it nothing,<br>
+and cease to beg for that hundred sestertia<br>
+you always ask for: sufficiency is riches.<br>`
 	},		
 	{ 
 		id: 24,
@@ -834,7 +896,16 @@ quam sic te sineres ab illo amari.<br>
 sed bello huic neque servus est neque arca.<br>
 hoc tu quam libet abice elevaque :<br>
 nec servum tamen ille habet neque arcam.<br>`,
-		english: `---`
+		english: `Iuventius, who are our pride,<br>
+not just now, for all times that have been,<br>
+or will be hereafter in later years,<br>
+rather surrender Midas’s riches<br>
+to him, who has no slaves or cash,<br>
+than allow yourself to be loved by him.<br>
+‘Why, isn’t he a decent man?’ you ask. He is:<br>
+but this decent man has no slaves or cash.<br>
+Ignore it: disparage it as you may:<br>
+he still has no slaves and no money.<br>`
 	},		
 	{ 
 		id: 25,
@@ -854,7 +925,19 @@ ne laneum latusculum manusque mollicellas<br>
 inusta turpiter tibi flagella conscribillent,<br>
 et insolenter aestues velut minuta magno<br>
 deprensa navis in mari vesaniente vento.<br>`,
-		english: `---`
+		english: `Thallus the sodomite, softer than rabbit’s fur<br>
+or goose grease, or the little tip of the ear,<br>
+or an old man’s slack penis mouldy with spider-webs,<br>
+and that same Thallus more rapacious than a wild storm,<br>
+when the sea-goddess reveals the yawning breakwaters,<br>
+return my cloak, you pounced on,<br>
+and Spanish napkin, and Bithynian painted ware,<br>
+absurd man, that you ‘own’ openly like heirlooms.<br>
+Now, unglue them from your talons, and return them,<br>
+lest those soft little flanks and tender fingers<br>
+are shamefully written over with the mark of the lash,<br>
+and you toss immoderately, like a paltry boat<br>
+caught in a heavy sea, in a raging wind.<br>`
 	},		
 	{ 
 		id: 26,
@@ -866,7 +949,11 @@ flatus opposita est neque ad Favoni<br>
 nec saevi Boreae aut Apeliotae,<br>
 verum ad milia quindecim et ducentos.<br>
 o ventum horribilem atque pestilentem!<br>`,
-		english: `---`
+		english: `Furius, your little villa’s not exposed<br>
+to the southerlies, or the westerlies,<br>
+the savage north-wind, or the easterly breeze,<br>
+but truly to fifteen thousand two hundred cash.<br>
+O terrifying and destructive wind!<br>`
 	},		
 	{ 
 		id: 27,
@@ -880,7 +967,13 @@ ebrioso acino ebriosioris.<br>
 at vos quo libet hinc abite, lymphae,<br>
 vini pernicies, et ad severos<br>
 migrate: hic merus est Thyonianus.<br>`,
-		english: `---`
+		english: `Serving-boy fill for me stronger cups<br>
+of old Falernian, since Postumia,<br>
+the mistress’s, laws demand it,<br>
+she who’s juicier then the juicy grape.<br>
+But you water, fatal to wine, away with you:<br>
+far off, wherever, be off to the strict.<br>
+This wine is Bacchus’s own.<br>`
 	},
 	{ 
 		id: 28,
@@ -902,7 +995,21 @@ casu: nam nihilo minore verpa<br>
 farti estis. pete nobiles amicos.<br>
 at vobis mala multa di deaeque<br>
 dent, opprobria Romuli Remique.<br>`,
-		english: `---`
+		english: `Followers of Piso, needy retinue,<br>
+with suitable and ready packs,<br>
+Veranius, the best, and you, my Fabullus,<br>
+what possessions do you carry? Haven’t you borne<br>
+hunger and cold enough with that good-for-nothing?<br>
+Do any small gains show in the expense accounts,<br>
+considering that I, following my praetor,<br>
+repay what was spent, with small gain?<br>
+O Memmius, truly, and daily, slowly<br>
+buggered me backwards with that whole tree of his.<br>
+But, as far as I can see, your case is the same:<br>
+now you’re stuffed by no less a circumcised cock.<br>
+Seek out the noble ones, my friends!<br>
+But, to you, may the gods and goddesses bring<br>
+much evil luck, disgraces to Romulus and Remus.<br>`
 	},
 	{ 
 		id: 29,
@@ -933,7 +1040,30 @@ quid hunc malum fovetis? aut quid hic potest<br>
 nisi uncta devorare patrimonia?<br>
 eone nomine † urbis opulentissime<br>
 socer generque, perdidistis omnia?<br>`,
-		english: `---`
+		english: `Who could see it, who could endure it,<br>
+unless he were shameless, greedy, a gambler?<br>
+Mamurra owns riches that Transalpine Gaul<br>
+and furthest Britain once owned.<br>
+Roman sodomite, do you see this and bear it?<br>
+And now shall the man, arrogant, overbearing,<br>
+flit through all of the beds<br>
+like a whitish dove or an Adonis?<br>
+Roman sodomite, do you see this and bear it?<br>
+You’re shameless, greedy, a gambler.<br>
+Surely it wasn’t for this, you, the unique leader,<br>
+were in the furthest western isle,<br>
+so that this loose-living tool of yours<br>
+might squander two or three hundred times its worth?<br>
+What is it but perverted generosity?<br>
+Hasn’t he squandered enough, or been elevated enough?<br>
+First his inheritance was well and truly spent,<br>
+then the booty from Pontus, then<br>
+Spain’s, to make three, as the gold-bearing Tagus knows:<br>
+now be afraid for Gaul’s and Britain’s.<br>
+Why cherish this evil? What’s he good for<br>
+but to devour his rich patrimony?<br>
+Was it for this, the city’s wealthiest,<br>
+you, father-in law, son-in-law, wasted a world?<br>`
 	},
 	{ 
 		id: 30,
@@ -952,7 +1082,17 @@ idem nunc retrahis te ac tua dicta omnia factaque<br>
 ventos irrita ferre ac nebulas aerias sinis.<br>
 si tu oblitus es, at di meminerunt, meminit Fides,<br>
 quae te ut paeniteat postmodo facti faciet tui.<br>`,
-		english: `---`
+		english: `Alfenus, negligent, false to the concord of pals,<br>
+have you no sympathy now with your gentle friend?<br>
+The impious deeds of deceitful men don’t please the gods.<br>
+You neglect me and abandon me to miserable illness.<br>
+Ah, say, what should men do, in whom should they trust?<br>
+Surely you, unjustly, commanded my trust, seduced<br>
+me to love, as if it were all quite safe for me.<br>
+Now you withdraw, and all your vain actions and words<br>
+you let slip on the winds, with the airy clouds.<br>
+If you forget, the gods will remember, Faith remembers,<br>
+so that whatever you do, you’ll soon repent of your deeds.<br>`
 	},
 	{ 
 		id: 31,
@@ -973,7 +1113,20 @@ hoc est quod unum est pro laboribus tantis.<br>
 salve, o venusta Sirmio, atque ero gaude;<br>
 gaudete vosque, o Lydiae lacus undae;<br>
 ridete, quidquid est domi cachinnorum.<br>`,
-		english: `---`
+		english: `Sirmio, jewel of islands, jewel of peninsulas,<br>
+jewel of whatever is set in the bright waters<br>
+or the great sea, or either ocean,<br>
+with what joy, what pleasure I gaze at you,<br>
+scarcely believing myself free of Thynia<br>
+and the Bithynian fields, seeing you in safety.<br>
+O what freedom from care is more joyful<br>
+than when the mind lays down its burden,<br>
+and weary, back home from foreign toil,<br>
+we rest in the bed we longed for?<br>
+This one moment’s worth all the labour.<br>
+Hail, O lovely Sirmio, and rejoice as I rejoice,<br>
+and you, O lake of Lydian waters, laugh<br>
+with whatever of laughter lives here.<br>`
 	},
 	{ 
 		id: 32,
@@ -991,7 +1144,17 @@ novem continuas fututiones.<br>
 verum, si quid ages, statim iubeto:<br>
 nam pransus iaceo et satur supinus<br>
 pertundo tunicamque palliumque.<br>`,
-		english: `---`
+		english: `Please, my sweet Ipsíthilla,<br>
+my delight, my charmer:<br>
+tell me to come to you at siesta.<br>
+And if you tell me, help it along,<br>
+let no-one cover the sign at your threshold,<br>
+nor you choose to step out of doors,<br>
+but stay at home, and get ready<br>
+for nine fucks, in succession, with me.<br>
+Truly, if you should want it, let me know now:<br>
+because lying here, fed, and indolently full,<br>
+I’m making a hole in my tunic and cloak.<br>`
 	},
 	{ 
 		id: 33,
@@ -1006,7 +1169,14 @@ cur non exsilium malasque in oras<br>
 itis, quandoquidem patris rapinae<br>
 notae sunt populo, et natis pilosas,<br>
 fili, non potes asse venditare?<br>`,
-		english: `---`
+		english: `O first of the bath-house thieves<br>
+Vibennius the father, with sodomite son<br>
+(since the father’s right hand is dirtier,<br>
+and the son’s arse more all-consuming),<br>
+why not go into exile, to some vile place?<br>
+you can’t sell for a farthing.<br>
+Seeing the father’s pillage is known<br>
+to us all, and the son’s hairy arse,<br>`
 	},
 	{ 
 		id: 34,
@@ -1037,7 +1207,30 @@ tecta frugibus exples.<br></p>
 sancta nomine, Romulique,<br>
 antique ut solita es, bona<br>
 sospites ope gentem.<br></p>`,
-		english: `---`
+		english: `Under Diana’s protection,<br>
+we pure girls, and boys:<br>
+we pure boys, and girls,<br>
+we sing of Diana.<br>
+O, daughter of Latona,<br>
+greatest child of great Jove,<br>
+whose mother gave birth<br>
+near the Delian olive,<br>
+mistress of mountains<br>
+and the green groves,<br>
+the secret glades,<br>
+and the sounding streams:<br>
+you, called Juno Lucina<br>
+in childbirth’s pains,<br>
+you, called all-powerful Trivia,<br>
+and Luna, of counterfeit daylight.<br>
+Your monthly passage<br>
+measures the course of the year,<br>
+you fill the rustic farmer’s<br>
+roof with good crops.<br>
+Take whatever sacred name<br>
+pleases you, be a sweet help<br>
+to the people of Rome,<br>
+as you have been of old.<br>`
 	},
 	{ 
 		id: 35,
@@ -1062,7 +1255,24 @@ ignes interiorem edunt medullam.<br>
 ignosco tibi, Sapphica puella<br>
 Musa doctior: est enim venuste<br>
 Magna Caecilio incohata Mater.<br>`,
-		english: `---`
+		english: `Paper, I’d like you to say to Caecilius,<br>
+that tender poet, that friend of mine,<br>
+leave Lake Como, come now to Verona,<br>
+abandon the town there and the shore.<br>
+Because there are certain thoughts that I want<br>
+him to hear of, from his friend and yours.<br>
+So, if he’s wise, he’ll eat up the road,<br>
+though some lovely girl calls to him<br>
+asks his return, clasping both hands<br>
+round his neck, and begging delay.<br>
+Who, if the truth’s been told me now<br>
+love’s him with violent desire.<br>
+For, since the moment she read his unfinished<br>
+Lady of Dindymus, the poor little thing<br>
+has been eaten by fire to the core of her bones.<br>
+I forgive you, girl, more learned<br>
+than the Sapphic Muse: it’s truly lovely,<br>
+Caecilius’s unfinished Great Mother Cybele.<br>`
 	},
 	{ 
 		id: 36,
@@ -1089,7 +1299,25 @@ si non inlepidum neque invenustum est.<br>
 at vos interea venite in ignem,<br>
 pleni ruris et inficetiarum<br>
 Annales Volusi, cacata charta.<br>`,
-		english: `---`
+		english: `Annals, of Volusius, papyrus droppings,<br>
+discharge my girl’s votive offering.<br>
+Since, by sacred Venus and Cupid, she promised,<br>
+that if I were given back to her,<br>
+and I left off launching wild iambics,<br>
+she’d offer the gods the choicest words,<br>
+of the worst of limping poets,<br>
+consumed with malignant wood.<br>
+And the girl thought this was the worst,<br>
+with charming laughter, to move the gods.<br>
+Now O goddess created from the blue sea,<br>
+whose is holy Idalia, Urii, Ancona,<br>
+reed-bound Cnidos, and Amathusia,<br>
+Golgos, and Adriatic Dyrrachium,<br>
+make the vow acceptable, fulfilled,<br>
+if its not lacking in wit and charm.<br>
+But meanwhile, you, enter the fire,<br>
+you, full of boorishness and crudities,<br>
+Volusian annals, papyrus droppings.<br>`
 	},
 	{ 
 		id: 37,
@@ -1116,7 +1344,25 @@ tu praeter omnes une de capillatis,<br>
 cuniculosae Celtiberiae fili,<br>
 Egnati, opaca quem bonum facit barba<br>
 et dens Hibera defricatus urina.<br>`,
-		english: `---`
+		english: `Lecherous tavern, and you its regulars,<br>
+nine pillars along from the Twins’ pillars,<br>
+do you think you’re the only ones with cocks,<br>
+the only ones who’re allowed to trouble<br>
+young girls, and consider the rest of us goats?<br>
+Or, because a hundred or two of you sit in a row, you,<br>
+dullards, that I daren’t bugger two hundred together?<br>
+Think on: I’ll draw all over the front<br>
+of the tavern with your leavings.<br>
+Because my girl, who’s left my arms,<br>
+whom I loved as no other girl’s ever been loved,<br>
+for whom so many great battles were fought,<br>
+is there. You, all the rich and the fortunate, love her,<br>
+and, what’s so shameful, it’s true, all the lesser ones,<br>
+all the adulterous frequenters of by-ways:<br>
+you, above all, one of the hairy ones,<br>
+rabbit-faced offspring of Spain,<br>
+Egnatius. Whom a shadowy beard improves,<br>
+and teeth scrubbed with Iberian piss.<br>`
 	},
 	{ 
 		id: 38,
@@ -1131,7 +1377,14 @@ qua solatus es adlocutione?<br>
 irascor tibi.  sic meos amores?<br>
 paulum quid libet adlocutionis,<br>
 maestius lacrimis Simonideis.<br>`,
-		english: `---`
+		english: `He’s ill, Cornificius, your Catullus,<br>
+he’s ill, by Hercules, and it’s bad,<br>
+and worse and worse by the hour.<br>
+Where are you, for whom it’s the least and easiest thing,<br>
+to bring consolation with chatter?<br>
+I’m cross with you. So much for my friendship?<br>
+Even a little might comfort me,<br>
+sadder than Simonides’s tears.<br>`
 	},
 	{ 
 		id: 39,
@@ -1159,7 +1412,27 @@ quod quisque minxit, hoc sibi solet mane<br>
 dentem atque russam defricare gingivam,<br>
 ut quo iste vester expolitior dens est,<br>
 hoc te amplius bibisse praedicet loti.<br>`,
-		english: `---`
+		english: `Egnatius, because he has snow-white teeth,<br>
+smiles all the time. If you’re a defendant<br>
+in court, when the counsel draws tears,<br>
+he smiles: if you’re in grief at the pyre<br>
+of pious sons, the lone lorn mother weeping,<br>
+he smiles. Whatever it is, wherever it is,<br>
+whatever he’s doing, he smiles: he’s got a disease,<br>
+neither polite, I would say, nor charming.<br>
+So a reminder to you, from me, good Egnatius.<br>
+If you were a Sabine or Tiburtine<br>
+or a fat Umbrian, or plump Etruscan,<br>
+or dark toothy Lanuvian, or from north of the Po,<br>
+and I’ll mention my own Veronese too,<br>
+or whoever else clean their teeth religiously,<br>
+I’d still not want you to smile all the time:<br>
+there’s nothing more foolish than foolishly smiling.<br>
+Now you’re Spanish: in the country of Spain<br>
+what each man pisses, he’s used to brushing<br>
+his teeth and red gums with, every morning,<br>
+so the fact that your teeth are so polished<br>
+just shows you’re the more full of piss.<br>`
 	},
 	{ 
 		id: 40,
@@ -1174,7 +1447,14 @@ an ut pervenias in ora vulgi?<br>
 quid vis? qua libet esse notus optas?<br>
 eris, quandoquidem meos amores<br>
 cum longa voluisti amare poena.<br>`,
-		english: `---`
+		english: `What illness of mind, poor little Ravidus,<br>
+drives you headlong onto my iambics?<br>
+What god, badly-disposed towards you,<br>
+intends to start a mad quarrel?<br>
+Or is it to achieve vulgar fame?<br>
+Why the assault? You want to be known everywhere?<br>
+You will be, seeing you’ve wanted to love<br>
+my love, and with a long punishment.<br>`
 	},
 	{ 
 		id: 41,
@@ -1189,7 +1469,14 @@ propinqui, quibus est puella curae,<br>
 amicos medicosque convocate:<br>
 non est sana puella, nec rogare<br>
 qualis sit solet aes imaginosum.<br>`,
-		english: `---`
+		english: `Ameana, a girl fucked by all,<br>
+requires ten thousand from me,<br>
+that girl with the ugly great nose,<br>
+bankrupt Formianus’s ‘friend’.<br>
+Gather round, you who care for the girl,<br>
+assemble together, doctors and friends:<br>
+the girl’s not well, don’t ask what it is:<br>
+she’s suffering from fantasy money.<br>`
 	},
 	{ 
 		id: 42,
