@@ -1,0 +1,1204 @@
+import { Carmen } from './carmen';
+
+export const CARMINA: Carmen[] = [
+	{ 
+		id: 1,
+		caput: 'I. ad Corneliam',
+		meter: 'Phalaecean',
+		commentaria: 'app/img/1.jpg',
+		latin: `Cui dono lepidum novum libellum<br>
+arida modo pumice expolitum?<br>
+Corneli, tibi: namque tu solebas<br>
+meas esse aliquid putare nugas.<br>
+Iam tum, cum ausus es unus Italorum<br>
+omne aevum tribus explicare cartis . . .<br>
+Doctis, Iuppiter, et laboriosis!<br>
+Quare habe tibi quidquid hoc libelli—<br>
+qualecumque, quod, o patrona virgo,<br>
+plus uno maneat perenne saeclo!`,
+		english: `To whom do I send this fresh little book<br>
+of wit, just polished off with dry pumice?<br>
+To you, Cornelius: since you were accustomed<br>
+to consider my trifles worth something<br>
+even then, when you alone of Italians<br>
+dared to explain all the ages, in three learned<br>
+works, by Jupiter, and with the greatest labour.<br>
+Then take this little book for your own: whatever<br>
+it is, and is worth: virgin Muse, patroness,<br>
+let it last, for more lives than one.<br>`
+	},
+	{ 
+		id: 2,
+		caput: 'II. fletus passeris Lesbiae',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Passer, deliciae meae puellae,<br>
+quicum ludere, quem in sinu tenere,<br>
+cui primum digitum dare adpetenti<br>
+et acris solet incitare morsus,<br>
+cum desiderio meo nitenti<br>
+carum nescio quid libet iocari<br>
+(et solaciolum sui doloris,<br>
+credo, ut tum gravis adquiescat ardor),<br>
+tecum ludere sicut ipsa possem<br>
+et tristis animi levare curas!<br>
+		<h3>IIb</h3>
+<p>Tam gratum est mihi quam ferunt puellae<br>
+pernici aureolum fuisse malum,<br>
+quod zonam solvit diu ligaSparrow, my sweet girl’s delight,<br>
+whom she plays with, holds to her breast,<br>
+whom, greedy, she gives her little finger to,<br>
+often provoking you to a sharp bite,<br>
+whenever my shining desire wishes<br>
+to play with something she loves,<br>
+I suppose, while strong passion abates,<br>
+it might be a small relief from her pain:<br>
+might I toy with you as she does<br>
+and ease the cares of a sad mind!</p>
+<p>It’s as pleasing to me as, they say,<br>
+that golden apple was to the swift girl,<br>
+that loosed her belt, too long tied.<br></p>
+`
+	},
+	{ 
+		id: 3,
+		caput: 'III. fletus passeris Lesbiae',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Lugete, o Veneres Cupidinesque<br>
+et quantum est hominum venustiorum!<br>
+passer mortuus est meae puellae,<br>
+passer, deliciae meae puellae,<br>
+quem plus illa oculis suis amabat;<br>
+nam mellitus erat, suamque norat<br>
+ipsa tam bene quam puella matrem,<br>
+nec sese a gremio illius movebat,<br>
+sed circumsiliens modo huc modo illuc<br>
+ad solam dominam usque pipiabat.<br>
+qui nunc it per iter tenebricosum<br>
+illuc unde negant redire quemquam.<br>
+at vobis male sit, malae tenebrae<br>
+Orci, quae omnia bella devoratis;<br>
+tam bellum mihi passerem abstulistis.<br>
+o factum male! o miselle passer!<br>
+tua nunc opera meae puellae<br>
+flendo turgiduli rubent ocelli.`,
+		english: `Mourn, O you Loves and Cupids<br>
+and such of you as love beauty:<br>
+my girl’s sparrow is dead,<br>
+sparrow, the girl’s delight,<br>
+whom she loved more than her eyes.<br>
+For he was sweet as honey, and knew her<br>
+as well as the girl her own mother,<br>
+he never moved from her lap,<br>
+but, hopping about here and there,<br>
+chirped to his mistress alone.<br>
+Now he goes down the shadowy road<br>
+from which they say no one returns.<br>
+Now let evil be yours, evil shadows of Orcus,<br>
+that devour everything of beauty:<br>
+you’ve stolen lovely sparrow from me.<br>
+O evil deed! O poor little sparrow!<br>
+Now, by your efforts, my girl’s eyes<br>
+are swollen and red with weeping.<br>`
+	},
+	{ 
+		id: 4,
+		caput: 'IV. de phasello',
+		meter: 'Iambic trimeter',
+		commentaria: 'none',
+		latin: `Phasellus ille, quem videtis, hospites,<br>
+ait fuisse navium celerrimus,<br>
+neque ullius natantis impetum trabis<br>
+nequisse praeterire, sive palmulis<br>
+opus foret volare sive linteo.<br>
+et hoc negat minacis Hadriatici<br>
+negare litus insulasve Cycladas<br>
+Rhodumque nobilem horridamque Thraciam<br>
+Propontida trucemve Ponticum sinum,<br>
+ubi iste post phasellus antea fuit<br>
+comata silva: nam Cytorio in iugo<br>
+loquente saepe sibilum edidit coma.<br>
+Amastri Pontica et Cytore buxifer,<br>
+tibi haec fuisse et esse cognitissima<br>
+ait phasellus; ultima ex origine<br>
+tuo stetisse dicit in cacumine,<br>
+tuo imbuisse palmulas in aequore,<br>
+et inde tot per impotentia freta<br>
+erum tulisse, laeva sive dextera<br>
+vocaret aura, sive utrumque Iuppiter<br>
+simul secundus incidisset in pedem;<br>
+neque ulla vota litoralibus diis<br>
+sibi esse facta, cum veniret a mari<br>
+novissimo hunc ad usque limpidum lacum.<br>
+sed haec prius fuere: nunc recondita<br>
+senet quiete seque dedicat tibi,<br>
+gemelle Castor et gemelle Castoris.<br>`,
+		english: `This boat you see, friends, will tell you<br>
+that she was the fastest of craft,<br>
+not to be challenged for speed<br>
+by any vessel afloat, whether<br>
+driven by sail or the labour of oars.<br>
+The threatening Adriatic coast won’t deny it,<br>
+nor the isles of the Cyclades,<br>
+nor noble Rhodes, nor fearful Bosphorus,<br>
+nor the grim bay of the Black Sea<br>
+where, before becoming a boat, she was<br>
+leafy wood: for on the heights of Cytorus<br>
+she often hissed to the whispering leaves.<br>
+The boat says these things were well known to you,<br>
+and are, Amastris and box-wood clad Cytorus:<br>
+she says from the very beginning she stood<br>
+on your slope, that she dipped her oars<br>
+in your water, and carried her owner from there<br>
+over so many headstrong breakers,<br>
+whether the wind cried from starboard<br>
+or larboard, or whether Jupiter struck at the sheets<br>
+on one side and the other, together:<br>
+and no prayers to the gods of the shore were offered<br>
+for her, when she came from a foreign sea<br>
+here, as far as this limpid lake.<br>
+But that’s past: now hidden away here<br>
+she ages quietly and offers herself to you,<br>
+Castor and his brother, heavenly Twins.<br>`
+	},
+	{ 
+		id: 5,
+		caput: 'V. ad Lesbiam',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Vivamus, mea Lesbia, atque amemus,<br>
+rumoresque senum severiorum<br>
+omnes unius aestimemus assis.<br>
+soles occidere et redire possunt:<br>
+nobis, cum semel occidit brevis lux,<br>
+nox est perpetua una dormienda.<br>
+da mi basia mille, deinde centum,<br>
+dein mille altera, dein secunda centum,<br>
+deinde usque altera mille, deinde centum,<br>
+dein, cum milia multa fecerimus,<br>
+conturbabimus illa, ne sciamus,<br>
+aut ne quis malus invidere possit,<br>
+cum tantum sciat esse basiorum.<br>`,
+		english: `Let us live, my Lesbia, let us love,<br>
+and all the words of the old, and so moral,<br>
+may they be worth less than nothing to us!<br>
+Suns may set, and suns may rise again:<br>
+but when our brief light has set,<br>
+night is one long everlasting sleep.<br>
+Give me a thousand kisses, a hundred more,<br>
+another thousand, and another hundred,<br>
+and, when we’ve counted up the many thousands,<br>
+confuse them so as not to know them all,<br>
+so that no enemy may cast an evil eye,<br>
+by knowing that there were so many kisses.<br>`
+	},
+	{ 
+		id: 6,
+		caput: 'VI. ad Flavium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Flavi, delicias tuas Catullo,<br>
+ni sint inlepidae atque inelegantes,<br>
+velles dicere, nec tacere posses.<br>
+verum nescio quid febriculosi<br>
+scorti diligis: hoc pudet fateri.<br>
+nam te non viduas iacere noctes<br>
+nequiquam tacitum cubile clamat<br>
+sertis ac Syrio fragrans olivo,<br>
+pulvinusque peraeque et hic et ille<br>
+attritus, tremulique quassa lecti<br>
+argutatio inambulatioque.<br>
+nam nil stupra valet, nihil, tacere.<br>
+cur? non tam latera ecfututa pandas,<br>
+ni tu quid facias ineptiarum.<br>
+quare, quidquid habes boni malique,<br>
+dic nobis: volo te ac tuos amores<br>
+ad caelum lepido vocare versu.<br>`,
+		english: `Flavius, unless your delights<br>
+were tasteless and inelegant,<br>
+you’d want to tell, and couldn’t be silent.<br>
+Surely you’re in love with some feverish<br>
+little whore: you’re ashamed to confess it.<br>
+Now, pointlessly silent, you don’t seem to be<br>
+idle of nights, it’s proclaimed by your bed<br>
+garlanded, fragrant with Syrian perfume,<br>
+squashed cushions and pillows, here and there,<br>
+and the trembling frame shaken,<br>
+quivering and wandering about.<br>
+But being silent does nothing for you.<br>
+Why? Spread thighs blab it’s not so,<br>
+if not quite what foolishness you commit.<br>
+How and whatever you’ve got, good or bad,<br>
+tell us. I want to name you and your loves<br>
+to the heavens in charming verse.<br>`
+	},	
+	{ 
+		id: 7,
+		caput: 'V. ad Lesbiam',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Quaeris quot mihi basiationes<br>
+tuae, Lesbia, sint satis superque.<br>
+quam magnus numerus Libyssae harenae<br>
+laserpiciferis iacet Cyrenis,<br>
+oraclum Iovis inter aestuosi<br>
+et Batti veteris sacrum sepulcrum,<br>
+aut quam sidera multa, cum tacet nox,<br>
+furtivos hominum vident amores,<br>
+tam te basia multa basiare<br>
+vesano satis et super Catullo est,<br>
+quae nec pernumerare curiosi<br>
+possint nec mala fascinare lingua.<br>`,
+		english: `Lesbia, you ask how many kisses of yours<br>
+would be enough and more to satisfy me.<br>
+As many as the grains of Libyan sand<br>
+that lie between hot Jupiter’s oracle,<br>
+at Ammon, in resin-producing Cyrene,<br>
+and old Battiades sacred tomb:<br>
+or as many as the stars, when night is still,<br>
+gazing down on secret human desires:<br>
+as many of your kisses kissed<br>
+are enough, and more, for mad Catullus,<br>
+as can’t be counted by spies<br>
+nor an evil tongue bewitch us.<br>`
+	},
+	{ 
+		id: 8,
+		caput: 'VIII. ad se ipsum',
+		meter: 'Choliambic',
+		commentaria: 'none',
+		latin: `Miser Catulle, desinas ineptire,<br>
+et quod vides perisse perditum ducas.<br>
+fulsere quondam candidi tibi soles,<br>
+cum ventitabas quo puella ducebat<br>
+amata nobis quantum amabitur nulla.<br>
+ibi illa multa tum iocosa fiebant,<br>
+quae tu volebas nec puella nolebat.<br>
+fulsere vere candidi tibi soles.<br>
+nunc iam illa non vult: tu quoque, impotens, noli,<br>
+nec quae fugit sectare, nec miser vive,<br>
+sed obstinata mente perfer, obdura.<br>
+vale, puella! iam Catullus obdurat,<br>
+nec te requiret nec rogabit invitam:<br>
+at tu dolebis, cum rogaberis nulla.<br>
+scelesta, vae te! quae tibi manet vita!<br>
+quis nunc te adibit? cui videberis bella?<br>
+quem nunc amabis? cuius esse diceris?<br>
+quem basiabis? cui labella mordebis?<br>
+at tu, Catulle, destinatus obdura.<br>`,
+		english: `Sad Catullus, stop playing the fool,<br>
+and let what you know leads you to ruin, end.<br>
+Once, bright days shone for you,<br>
+when you came often drawn to the girl<br>
+loved as no other will be loved by you.<br>
+Then there were many pleasures with her,<br>
+that you wished, and the girl not unwilling,<br>
+truly the bright days shone for you.<br>
+And now she no longer wants you: and you<br>
+weak man, be unwilling to chase what flees,<br>
+or live in misery: be strong-minded, stand firm.<br>
+Goodbye girl, now Catullus is firm,<br>
+he doesn’t search for you, won’t ask unwillingly.<br>
+But you’ll grieve, when nobody asks.<br>
+Woe to you, wicked girl, what life’s left for you?<br>
+Who’ll submit to you now? Who’ll see your beauty?<br>
+Who now will you love? Whose will they say you’ll be?<br>
+Who will you kiss? Whose lips will you bite?<br>
+But you, Catullus, be resolved to be firm.<br>`
+	},
+	{ 
+		id: 9,
+		caput: 'IX. ad Veranium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Verani, omnibus e meis amicis<br>
+antistans mihi milibus trecentis,<br>
+venistine domum ad tuos penates<br>
+fratresque unanimos anumque matrem?<br>
+venisti! o mihi nuntii beati!<br>
+visam te incolumem audiamque Hiberum<br>
+narrantem loca, facta, nationes,<br>
+ut mos est tuus, applicansque collum<br>
+iucundum os oculosque saviabor.<br>
+o, quantum est hominum beatiorum,<br>
+quid me laetius est beatiusve?<br>`,
+		english: `Veranius, first to me of all<br>
+my three hundred thousand friends,<br>
+have you come home to your own house<br>
+your harmonious brothers, and old mother?<br>
+You’re back. O happy news for me!<br>
+I’ll see you safe and sound and listen<br>
+to your tales of Spanish places that you’ve done,<br>
+and tribes, as is your custom, and<br>
+hang about your neck, and kiss<br>
+your lovely mouth and eyes.<br>
+O who of all men is happier<br>
+than I the gladdest and happiest?<br>`
+	},
+	{ 
+		id: 10,
+		caput: 'X. ad Varum',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Varus me meus ad suos amores<br>
+visum duxerat e foro otiosum,<br>
+scortillum, ut mihi tunc repente visum est,<br>
+non sane inlepidum neque invenustum.<br>
+huc ut venimus, incidere nobis<br>
+sermones varii, in quibus, quid esset<br>
+iam Bithynia, quo modo se haberet,<br>
+ecquonam mihi profuisset aere.<br>
+respondi id quod erat, nihil neque ipsis<br>
+nec praetoribus esse nec cohorti,<br>
+cur quisquam caput unctius referret,<br>
+praesertim quibus esset irrumator<br>
+praetor nec faceret pili cohortem.<br>
+“at certe tamen,” inquiunt, “quod illic<br>
+natum dicitur esse comparasti,<br>
+ad lecticam homines.” ego, ut puellae<br>
+unum me facerem beatiorem,<br>
+“non,” inquam, “mihi tam fuit maligne,<br>
+ut, provincia quod mala incidisset,<br>
+non possem octo homines parare rectos.”<br>
+at mi nullus erat neque hic neque illic<br>
+fractum qui veteris pedem grabati<br>
+in collo sibi conlocare posset.<br>
+hic illa, ut decuit cinaediorem,<br>
+“quaeso,” inquit, “mihi, mi Catulle, paulum<br>
+istos commoda: nam volo ad Sarapim<br>
+deferri.”  “Mane,” inquii puellae,<br>
+“istud quod modo dixeram, me habere,<br>
+fugit me ratio: meus sodalis<br>
+Cinna est Gaius; is sibi paravit.<br>
+verum, utrum illius an mei, quid ad me?<br>
+utor tam bene quam mihi pararim.<br>
+sed tu insulsa male et molesta vivis,<br>
+per quam non licet esse neglegentem.”<br>`,
+		english: `Varus drags me into his affairs<br>
+out of the Forum, where I’m seen idling:<br>
+to a little whore I immediately saw,<br>
+not very inelegant, not unattractive,<br>
+who, when we came there, met us<br>
+with varied chatter, including, how might<br>
+Bithynia stand now, what’s it like, and where<br>
+might the benefit have been to me in cash.<br>
+I told her what’s true, nothing at all,<br>
+while neither the praetors nor their aides,<br>
+return any the richer, especially since<br>
+our Praetor, Memmius, the bugger,<br>
+cared not a jot for his followers.<br>
+‘But surely,’ they said, you could have bought<br>
+slaves they say are made for the litter there.’<br>
+I, so the girl might take me to be wealthy,<br>
+said ‘no, for me things weren’t so bad,<br>
+that coming across one bad province,<br>
+I couldn’t buy eight good men.’<br>
+But I’d no one, neither here nor there,<br>
+who might even raise to his shoulder<br>
+the shattered foot of an old couch.<br>
+At this she, like the shameless thing she was, said<br>
+‘I beg you, my dear Catullus, for the loan of them,<br>
+just for a while: I’d like to be carried<br>
+to Serap’s temple.’ ‘Wait’ I said to the girl,<br>
+‘what I just said was mine, isn’t actually in<br>
+my possession: my friend Cinna, that’s Gaius,<br>
+purchased the thing for himself.<br>
+Whether they’re his or mine, what difference to me?<br>
+I use them just as well as if I’d bought them myself.<br>
+But you are quite tasteless, and annoying,<br>
+you with whom no inexactness is allowed.’<br>`
+	},
+	{ 
+		id: 11,
+		caput: 'XI. ad Furium et Aurelium',
+		meter: 'Lesser Sapphic',
+		commentaria: 'none',
+		latin: `Furi et Aureli, comites Catulli,<br>
+sive in extremos penetrabit Indos,<br>
+litus ut longe resonante Eoa<br>
+tunditur unda,<br>
+</p>
+<p>
+sive in Hyrcanos Arabasve molles,<br>
+seu Sacas sagittiferosve Parthos,<br>
+sive quae septemgeminus colorat<br>
+aequora Nilus,<br>
+</p>
+<p>
+sive trans altas gradietur Alpes<br>
+Caesaris visens monimenta magni,<br>
+Gallicum Rhenum, horribile aequor, ulti-<br>
+mosque Britannos,<br>
+</p>
+<p>
+omnia haec, quaecumque feret voluntas<br>
+caelitum, temptare simul parati,<br>
+pauca nuntiate meae puellae<br>
+non bona dicta.<br>
+</p>
+<p>
+cum suis vivat valeatque moechis,<br>
+quos simul complexa tenet trecentos,<br>
+nullum amans vere, sed identidem omnium<br>
+ilia rumpens;<br>
+</p>
+<p>
+nec meum respectet, ut ante, amorem,<br>
+qui illius culpa cecidit velut prati<br>
+ultimi flos, praetereunte postquam<br>
+tactus aratro est.<br>
+</p>`,
+		english: `FURIUS and Aurelius, comrades of Catullus, whether he <br>
+            shall make his way among the farthest Indians, where the <br>
+            I shore is beaten by the far-resounding eastern wave ; or among <br>
+            the Hyrcani, and the soft Arabs, or the Sacæ and the Par­ <br>
+            thian archers, or where the seven-mouthed Nile colours the <br>
+            sea; or whether he shall march across the lofty Alps, visiting <br>
+            the monuments of the great Cæsar, the Gallic Rhine and the <br>
+            horrible and remotest Britons ; you who are ready to venture <br>
+            with him upon all enterprises whatever, which the will of <br>
+            the gods shall impose, bear these few unwelcome words to my <br>
+            girl: let her live and be happy with her paramours, three <br>
+            hundred of whom she embraces, loving not one of them truly, <br>
+            but wearing them all out alike.3 Let her not regard my love 4 <br>
+            as before, a love which has fallen like a flower on the verge <br>
+            of the meadow, after it has been touched by the passing <br>`
+	},
+	{ 
+		id: 12,
+		caput: 'XII. ad Matrucinum Asinium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Marrucine Asini, manu sinistra<br>
+non belle uteris in ioco atque vino:<br>
+tollis lintea neglegentiorum.<br>
+hoc salsum esse putas? fugit te, inepte!<br>
+quamvis sordida res et invenusta est<br>
+non credis mihi?  crede Pollioni<br>
+fratri, qui tua furta vel talento<br>
+mutari velit; est enim leporum<br>
+disertus puer ac facetiarum.<br>
+quare aut hendecasyllabos trecentos<br>
+exspecta, aut mihi linteum remitte,<br>
+quod me non movet aestimatione,<br>
+verum est mnemosynum mei sodalis.<br>
+nam sudaria Saetaba ex Hiberis<br>
+miserunt mihi muneri Fabullus<br>
+et Veranius: haec amem necesse est<br>
+et Veraniolum meum et Fabullum.<br>`,
+		english: `MARRUCINUS Asinius, you use your left hand2 in no credit­ <br>
+            able manner in hours of mirth and wine. You filch the <br>
+            napkins of those who are at all heedless. Do you think this <br>
+            witty? You do not perceive, silly fellow, how low and un­ <br>
+            becoming a thing it is. You do not believe me ? Believe <br>
+            your brother Pollio,3 who would be glad if your thefts could <br>
+            be got rid of even at the cost of a talent: for he is a youth ac­ <br>
+            complished in pleasantries.4 Wherefore expect either three <br>
+            hundred lampoons, or send me back my napkin, which I <br>
+            regard not for its intrinsic value, but as a souvenir of my <br>
+            comrade. For Fabullus and Verannius sent me napkins as <br>
+ as I do my Verannius and Fabullus. `
+	},		
+	{ 
+		id: 13,
+		caput: 'XIII. ad Fabullum',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Cenabis bene, mi Fabulle, apud me<br>
+paucis, si tibi di favent, diebus,<br>
+si tecum attuleris bonam atque magnam<br>
+cenam, non sine candida puella<br>
+et vino et sale et omnibus cachinnis.<br>
+haec si, inquam, attuleris, venuste noster<br>
+cenabis bene; nam tui Catulli<br>
+plenus sacculus est aranearum.<br>
+sed contra accipies meros amores<br>
+seu quid suavius elegantiusve est:<br>
+nam unguentum dabo, quod meae puellae<br>
+donarunt Veneres Cupidinesque,<br>
+quod tu cum olfacies, deos rogabis<br>
+totum ut te faciant, Fabulle, nasum.<br>`,
+		english: `You will sup well at my house in a few days, my Fabullus, <br>
+            if the gods favour you, provided you bring with you a good <br>
+            and copious supper, not forgetting a fair girl, and wine, and <br>
+            wit, and all manner of laughter. These things I say if you <br>
+            bring with you, my bonny man, you shall sup well; for the <br>
+            purse of your Catullus is full of cobwebs. But in return you <br>
+            - shall have what you may call a very love,' or if there be any­ <br>
+            thing else sweeter or more elegant, you may call it by that <br>
+            name. For I will give you an unguent2 which the Loves <br>
+            and Desires bestowed on my girl; and when you smell it, <br>
+            you will beseech the gods, Fabullus, to make you all nose.</p>`
+	},		
+	{ 
+		id: 14,
+		caput: 'XIV. ad Calvum poetam',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Ni te plus oculis meis amarem,<br>
+iucundissime Calve, munere isto<br>
+odissem te odio Vatiniano:<br>
+nam quid feci ego quidve sum locutus,<br>
+cur me tot male perderes poetis?<br>
+isti di mala multa dent clienti<br>
+qui tantum tibi misit impiorum.<br>
+quod si, ut suspicor, hoc novum ac repertum<br>
+munus dat tibi Sulla litterator,<br>
+non est mi male, sed bene ac beate,<br>
+quod non dispereunt tui labores.<br>
+di magni, horribilem et sacrum libellum,<br>
+quem tu scilicet ad tuum Catullum<br>
+misti, continuo ut die periret,<br>
+Saturnalibus, optimo dierum!<br>
+non, non hoc tibi, false, sic abibit:<br>
+nam, si luxerit, ad librariorum<br>
+curram scrinia, Caesios, Aquinos,<br>
+Suffenum, omnia colligam venena,<br>
+ac te his suppliciis remunerabor.<br>
+vos hinc interea valete, abite<br>
+illuc unde malum pedem attulistis,<br>
+saecli incommoda, pessimi poetae.<br>
+<h3>IIb</h3>
+<P>Si qui forte mearum ineptiarum<br>
+lectores eritis manusque vestras<br>
+non horrebitis admovere nobis,</P>`,
+		english: `<p>DID I not love you more than my eyes, most pleasant <br>
+            Calvus, I should hate you with Vatinian hatred 4 for that pre­ <br>
+            sent of yours. For what have I done, or what have I said, <br>
+            that you should cruelly plague me with so many poets? May <br>
+            the gods heap many evils on that client who sent you such a <br>
+            lot of villains. But if, as I suspect, Sulla, the commentator,<br>
+has given you this new an l choice present, I am not vexed, but <br>
+            delighted that your labours were not spent in vain.1 Great <br>
+            gods, what a horrible and accursed book ! And this forsooth <br>
+            you have sent to your Catullus, that he might be bored to <br>
+            death all day long in the Saturnalia,2 the best of our festivals. <br>
+            No, no, wag, this shall not pass with you so; for as soon as <br>
+            it dawns I will run to the booksellers' stalls; I will collect <br>
+            your Cæssii, your Aquinii, Suffenus, and all sorts of poisonous <br>
+            trash, and pay you back with these torments.</p>
+          <p>Fare you well, meanwhile, hence with you, begone to <br>
+            whence you came in evil hour, pests of the age, you execrable <br>
+            poets.</p>`
+	},		
+	{ 
+		id: 15,
+		caput: 'XV. ad Aurelium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Commendo tibi me ac meos amores,<br>
+Aureli. Veniam peto pudentem,<br>
+ut, si quicquam animo tuo cupisti<br>
+quod castum expeteres et integellum,<br>
+conserves puerum mihi pudice,<br>
+non dico a populo: nihil veremur<br>
+istos qui in platea modo huc modo illuc<br>
+in re praetereunt sua occupati;<br>
+verum a te metuo tuoque pene<br>
+infesto pueris bonis malisque.<br>
+quem tu qua libet, ut libet moveto<br>
+quantum vis, ubi erit foris paratum:<br>
+hunc unum excipio, ut puto, pudenter.<br>
+quod si te mala mens furorque vecors<br>
+in tantam impulerit, sceleste, culpam,<br>
+ut nostrum insidiis caput lacessas,<br>
+ah tum te miserum malique fati,<br>
+quem attractis pedibus patente porta<br>
+percurrent raphanique mugilesque.<br>`,
+		english: `I COMMEND myself and my love to you, Aurelius, with this <br>
+            modest request; if ever your heart was set upon an object <br>
+            and longed to find it chaste and unsullied, watch over the <br>
+            chastity of this ward I commit to your care, and keep it safe ;— <br>
+            not from the general public: I have no fear of men who hurry <br>
+            here and there through the streets, engrossed with business; <br>
+            but I fear you and your everlasting priapism, that spares <br>
+            neither fair nor foul. Expend it abroad, how you please and <br>
+            on whom you please; I except this one object alone, and not <br>
+            unreasonably, as I think. But if in natural depravity and <br>
+            the delirium of concupiscence, you proceed to the unpardonable <br>
+            crime of inveigling one who is dear to me as my own life, oh <br>
+            then merciless will be your fate: feet bound-doors open­ <br>
+            radishes and mullets !`
+	},		
+	{ 
+		id: 16,
+		caput: 'XVI. ad Aurelium et Furium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Pedicabo ego vos et irrumabo,<br>
+Aureli pathice et cinaede Furi,<br>
+qui me ex versiculis meis putastis,<br>
+quod sunt molliculi, parum pudicum.<br>
+nam castum esse decet pium poetam<br>
+ipsum, versiculos nihil necesse est,<br>
+qui tum denique habent salem ac leporem,<br>
+si sunt molliculi ac parum pudici<br>
+et quod pruriat incitare possunt,<br>
+non dico pueris, sed his pilosis,<br>
+qui duros nequeunt movere lumbos.<br>
+vos quod milia multa basiorum<br>
+legistis, male me marem putatis?<br>
+pedicabo ego vos et irrumabo.<br>`,
+		english: `I WILL trim you and trounce you,1 Aurelius and Furius, <br>
+            you infamous libertines, who judge from my verses that I am <br>
+            myself indecent because they are a little voluptuous; for it <br>
+            becomes the true poet2 to be himself chaste; but it is not at <br>
+            all necessary that his verses should be so.3 On the contrary, <br>
+the very thing to give them zest and charm, is that they be a <br>
+            little voluptuous and indecent, and able to excite prurience, <br>
+            I do not say in beardless boys, but in the hardened fibres of <br>
+            veterans in debauchery. You, because you have read of many <br>
+            thousand kisses in my lines, think me effeminate ; but do not <br>
+            presume upon my written follies; hands off! or I will give <br>
+            you awkward proof of my manhood.`
+	},		
+	{ 
+		id: 17,
+		caput: 'XVII.',
+		meter: 'Priapean',
+		commentaria: 'none',
+		latin: `O Colonia, quae cupis ponte ludere longo,<br>
+et salire paratum habes, sed vereris inepta<br>
+crura ponticuli assulis stantis in redivivis,<br>
+ne supinus eat cavaque in palude recumbat,<br>
+sic tibi bonus ex tua pons libidine fiat,<br>
+in quo vel Salisubsili sacra suscipiantur,<br>
+munus hoc mihi maximi da, Colonia, risus.<br>
+quendam municipem meum de tuo volo ponte<br>
+ire praecipitem in lutum per caputque pedesque,<br>
+verum totius ut lacus putidaeque paludis<br>
+lividissima maximeque est profunda vorago.<br>
+insulsissimus est homo, nec sapit pueri instar<br>
+bimuli tremula patris dormientis in ulna:<br>
+cui cum sit viridissimo nupta flore puella<br>
+(et puella tenellulo delicatior haedo,<br>
+adservanda nigerrimis diligentius uvis),<br>
+ludere hanc sinit ut libet, nec pili facit uni,<br>
+nec se sublevat ex sua parte, sed velut alnus<br>
+in fossa Liguri iacet suppernata securi,<br>
+tantundem omnia sentiens quam si nulla sit usquam<br>
+talis iste meus stupor nil videt, nihil audit,<br>
+ipse qui sit, utrum sit an non sit, id quoque nescit.<br>
+nunc eum volo de tuo ponte mittere pronum,<br>
+si pote stolidum repente excitare veternum<br>
+et supinum animum in gravi derelinquere caeno,<br>
+ferream ut soleam tenaci in voragine mula.<br>`,
+		english: `0 TOWN, that wishest to exhibit games on a long bridge,1 <br>
+            and art ready to dance, but fearest the crazy legs of the little <br>
+            bridge standing on piles, lest it fall flat beyond recovery, and <br>
+            sink in the deep pool; may a good bridge be made for thee <br>
+            after thy own heart, one on which even the Salian rites 2 may <br>
+            be undertaken ; but then, 0 town, grant me this most laughter- <br>
+            moving boon.</p>
+          <p>I want a certain townsman of mine to be pitched neck and <br>
+            heels from the bridge into the water; and just in that part <br>
+            where the boggy slime is the bluest and deepest in the whole <br>
+            lake and fetid marsh. The man is utterly witless; he has <br>
+            not as much sense as a child of two years old, rocked to sleep <br>
+            on his father's arm. Though he has to wife a girl in her <br>
+            earliest bloom, and though this girl, more delicate than a <br>
+            tender kid, should be watched more carefully than the ripest <br>
+            grapes, he lets her play as she will, and never cares a rush ; <br>
+            nor does he bestir himself on his own part, but lies like the <br>
+            felled alder in a Ligurian ditch,3 as wholly insensible as though <br>
+            he had no wife at all. Just so this dolt of mine sees nothing, <br>
+            hears nothing ; he does not even know who he is, or whether <br>
+            he exists or not.</p>
+          <p>Now I want to send him head foremost from the bridge, <br>
+            in order to see if it be possible suddenly to rouse the stolid <br>
+numskull, and leave his inert soul behind in the heavy mud, <br>
+            as the mule leaves her iron shoe1 in the stiff slough.</p>`
+	},		
+	{ 
+		id: 21,
+		caput: 'XXI. ad Aurelium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Aureli, pater esuritionum,<br>
+non harum modo, sed quot aut fuerunt<br>
+aut sunt aut aliis erunt in annis,<br>
+pedicare cupis meos amores.<br>
+nec clam: nam simul es, iocaris una,<br>
+haerens ad latus omnia experiris.<br>
+frustra: nam insidias mihi instruentem<br>
+tangam te prior irrumatione.<br>
+atque id si faceres satur, tacerem:<br>
+nunc ipsum id doleo, quod esurire,<br>
+ah me me, puer et sitire discet.<br>
+quare desine, dum licet pudico,<br>
+ne finem facias, sed irrumatus.<br>`,
+		english: `AURELIUS, chief furnisher of famine-spread boards,1 past, <br>
+            present, and to come, you are bent on debauching my young <br>
+            friend ; and you make no secret of it; for you never quit the <br>
+            poor thing's side, nor lose an opportunity of toying and try­ <br>
+            ing all the arts of seduction. But all in vain ; for my venge­ <br>
+            ance will anticipate your insidious purposes. Now if you <br>
+            did all this upon a full stomach, I might have patience; but <br>
+what vexes me is, that under your tuition the poor child must <br>
+            learn to bear hunger and thirst. Desist, now, I warn you, <br>
+            whilst you can do so with honour, lest</p>`
+	},		
+	{ 
+		id: 22,
+		caput: 'XXII. ad Varum',
+		meter: 'Choliambic',
+		commentaria: 'none',
+		latin: `Suffenus iste, Vare, quem probe nosti,<br>
+homo est venustus et dicax et urbanus,<br>
+idemque longe plurimos facit versus.<br>
+puto esse ego illi milia aut decem aut plura<br>
+perscripta, nec sic, ut fit, in palimpsesto<br>
+relata: chartae regiae, novi libri,<br>
+novi umbilici, lora, rubra membrana,<br>
+derecta plumbo et pumice omnia aequata.<br>
+haec cum legas tu, bellus ille et urbanus<br>
+Suffenus unus caprimulgus aut fossor<br>
+rursus videtur: tantum abhorret ac mutat.<br>
+hoc quid putemus esse?  Qui modo scurra<br>
+aut si quid hac re tritius videbatur,<br>
+idem infaceto est infacetior rure<br>
+simul poemata attigit, neque idem unquam<br>
+aeque est beatus ac poema cum scribit:<br>
+tam gaudet in se tamque se ipse miratur.<br>
+nimirum idem omnes fallimur, neque est quisquam<br>
+quem non in aliqua re videre Suffenum<br>
+possis.  Suus cuique attributus est error,<br>
+sed non videmus manticae quod in tergo est.<br>`,
+		english: `THAT Suffenus, whom you, Varus, know well, is a nice <br>
+            fellow, a pleasant talker, and a wit ;1 moreover he makes no <br>
+            end of verses. I believe he has written ten thousand or <br>
+            more, nor are they scribbled as usual on palimpsest.2 0 no! <br>
+            royal paper, new covers, new bosses, red bands, the sheets <br>
+            ruled with lead, and the whole smoothed with pumice. When <br>
+            you read these books, then that graceful and witty Suffenus <br>
+            seems to you again a downright goatherd3 or a ditcher, so ex­ <br>
+            treme is the change. What are we to think of this ? He whc <br>
+            but now seemed a professed jester, or whatever else is more <br>
+            glib and flippant, becomes stupider than a stupid country clown <br>
+            as soon as he puts his hand to poetry ; and this same man is <br>
+            never so happy as when he is writing poetry, he so delights in <br>
+            himself, so admires himself.4 Doubtless we are all likewise <br>
+            fallible, nor is there any one whom you may not perceive to <br>
+            be a Suffenus in some particular. Each has his own assign- <br>
+ed failing; but W3 do not see what is in the wallet on our <br>
+            back.
+`
+	},		
+	{ 
+		id: 23,
+		caput: 'XXIII. ad Furium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Furi, cui neque servus est neque arca<br>
+nec cimex neque araneus neque ignis,<br>
+verum est et pater et noverca, quorum<br>
+dentes vel silicem comesse possunt,<br>
+est pulchre tibi cum tuo parente<br>
+et cum coniuge lignea parentis.<br>
+nec mirum: bene nam valetis omnes,<br>
+pulchre concoquitis, nihil timetis,<br>
+non incendia, non graves ruinas,<br>
+non furta impia, non dolos veneni,<br>
+non casus alios periculorum.<br>
+atqui corpora sicciora cornu<br>
+aut si quid magis aridum est habetis<br>
+sole et frigore et esuritione.<br>
+quare non tibi sit bene ac beate?<br>
+a te sudor abest, abest saliva,<br>
+mucusque et mala pituita nasi.<br>
+hanc ad munditiem adde mundiorem,<br>
+quod culus tibi purior salillo est,<br>
+nec toto decies cacas in anno;<br>
+atque id durius est faba et lapillis,<br>
+quod tu si manibus teras fricesque,<br>
+non unquam digitum inquinare possis.<br>
+haec tu commoda tam beata, Furi,<br>
+noli spernere nec putare parvi,<br>
+et sestertia quae soles precari<br>
+centum desine: nam satis beatu's.<br>`,
+		english: `---`
+	},		
+	{ 
+		id: 24,
+		caput: 'XXIV. ad Iuventium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `O qui flosculus es Iuventiorum,<br>
+non horum modo, sed quot aut fuerunt<br>
+aut posthac aliis erunt in annis,<br>
+mallem divitias Midae dedisses<br>
+isti cui neque servus est neque arca,<br>
+quam sic te sineres ab illo amari.<br>
+“quid? Non est homo bellus?” inquies. est:<br>
+sed bello huic neque servus est neque arca.<br>
+hoc tu quam libet abice elevaque :<br>
+nec servum tamen ille habet neque arcam.<br>`,
+		english: `---`
+	},		
+	{ 
+		id: 25,
+		caput: 'XXV. ad Thallum',
+		meter: 'Iambic tetrameter catalectic',
+		commentaria: 'none',
+		latin: `Cinaede Thalle, mollior cuniculi capillo<br>
+vel anseris medullula vel imula auricilla<br>
+vel pene languido senis situque araneoso,<br>
+idemque Thalle turbida rapacior procella,<br>
+cum † diva mulier aries ostendit oscitantes,<br>
+remitte pallium mihi meum quod involasti<br>
+sudariumque Saetabum catagraphosque Thynos,<br>
+inepte, quae palam soles habere tanquam avita.<br>
+quae nunc tuis ab unguibus reglutina et remitte,<br>
+ne laneum latusculum manusque mollicellas<br>
+inusta turpiter tibi flagella conscribillent,<br>
+et insolenter aestues velut minuta magno<br>
+deprensa navis in mari vesaniente vento.<br>`,
+		english: `---`
+	},		
+	{ 
+		id: 26,
+		caput: 'XXVI. ad Furium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Furi, villula vestra non ad Austri<br>
+flatus opposita est neque ad Favoni<br>
+nec saevi Boreae aut Apeliotae,<br>
+verum ad milia quindecim et ducentos.<br>
+o ventum horribilem atque pestilentem!<br>`,
+		english: `---`
+	},		
+	{ 
+		id: 27,
+		caput: 'XXVII. ad pincernam suum',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Minister vetuli puer Falerni<br>
+inger mi calices amariores,<br>
+ut lex Postumiae iubet magistrae,<br>
+ebrioso acino ebriosioris.<br>
+at vos quo libet hinc abite, lymphae,<br>
+vini pernicies, et ad severos<br>
+migrate: hic merus est Thyonianus.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 28,
+		caput: 'XXVIII. ad Verannium et Fabullum',
+		meter: 'none',
+		commentaria: 'Phalaecean',
+		latin: `Pisonis comites, cohors inanis<br>
+aptis sarcinulis et expeditis,<br>
+Verani optime tuque mi Fabulle,<br>
+quid rerum geritis? Satisne cum isto<br>
+vappa frigoraque et famem tulistis?<br>
+ecquidnam in tabulis patet lucelli<br>
+expensum, ut mihi, qui meum secutus<br>
+praetorem refero datum lucello,<br>
+“o Memmi, bene me ac diu supinum<br>
+tota ista trabe lentus irrumasti.”<br>
+sed, quantum video, pari fuistis<br>
+casu: nam nihilo minore verpa<br>
+farti estis. pete nobiles amicos.<br>
+at vobis mala multa di deaeque<br>
+dent, opprobria Romuli Remique.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 29,
+		caput: 'XXIX. in Romulum cathamitum',
+		meter: 'Iambic trimeter',
+		commentaria: 'none',
+		latin: `Quis hoc potest videre, quis potest pati,<br>
+nisi impudicus et vorax et aleo,<br>
+Mamurram habere quod comata GaIlia<br>
+habebat ante et ultima Britannia?<br>
+Cinaede Romule, haec videbis et feres?<br>
+et ille nunc superbus et superfluens<br>
+perambulabit omnium cubilia<br>
+ut albulus columbus aut Adoneus?<br>
+cinaede Romule, haec videbis et feres?<br>
+es impudicus et vorax et aleo.<br>
+eone nomine, imperator unice,<br>
+fuisti in ultima occidentis insula,<br>
+ut ista vestra diffututa mentula<br>
+ducenties comesset aut trecenties?<br>
+quid est alid sinistra liberalitas?<br>
+parum expatravit an parum elluatus est?<br>
+paterna prima lancinata sunt bona;<br>
+secunda praeda Pontica; inde tertia<br>
+Hibera, quam scit amnis aurifer Tagus.<br>
+nunc Galliae timetur et Britanniae.<br>
+quid hunc malum fovetis? aut quid hic potest<br>
+nisi uncta devorare patrimonia?<br>
+eone nomine † urbis opulentissime<br>
+socer generque, perdidistis omnia?<br>`,
+		english: `---`
+	},
+	{ 
+		id: 30,
+		caput: 'XXX. ad Alphenum',
+		meter: 'Asclepiadean major',
+		commentaria: 'none',
+		latin: `Alfene immemor atque unanimis false sodalibus,<br>
+iam te nil miseret, dure, tui dulcis amiculi?<br>
+iam me prodere, iam non dubitas fallere, perfide?<br>
+nec facta impia fallacum hominum caelicolis placent;<br>
+quae tu neglegis, ac me miserum deseris in malis.<br>
+eheu, quid faciant, dic, homines, cuive habeant fidem?<br>
+certe tute iubebas animam tradere, inique, me<br>
+inducens in amorem, quasi tuta omnia mi forent.<br>
+idem nunc retrahis te ac tua dicta omnia factaque<br>
+ventos irrita ferre ac nebulas aerias sinis.<br>
+si tu oblitus es, at di meminerunt, meminit Fides,<br>
+quae te ut paeniteat postmodo facti faciet tui.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 31,
+		caput: 'XXXI. ad Sirmium insulam',
+		meter: 'Choliambic',
+		commentaria: 'none',
+		latin: `Paene insularum, Sirmio, insularumque<br>
+ocelle, quascumque in liquentibus stagnis<br>
+marique vasto fert uterque Neptunus,<br>
+quam te libenter quamque laetus inviso,<br>
+vix mi ipse credens Thyniam atque Bithynos<br>
+liquisse campos et videre te in tuto!<br>
+o quid solutis est beatius curis,<br>
+cum mens onus reponit, ac peregrino<br>
+labore fessi venimus larem ad nostrum<br>
+desideratoque adquiescimus lecto?<br>
+hoc est quod unum est pro laboribus tantis.<br>
+salve, o venusta Sirmio, atque ero gaude;<br>
+gaudete vosque, o Lydiae lacus undae;<br>
+ridete, quidquid est domi cachinnorum.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 32,
+		caput: 'XXXII. ad Ipsicillam',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Amabo, mea dulcis Ipsithilla,<br>
+meae deliciae, mei lepores,<br>
+iube ad te veniam meridiatum.<br>
+et si iusseris illud, adiuvato,<br>
+ne quis liminis obseret tabellam,<br>
+neu tibi libeat foras abire;<br>
+sed domi maneas paresque nobis<br>
+novem continuas fututiones.<br>
+verum, si quid ages, statim iubeto:<br>
+nam pransus iaceo et satur supinus<br>
+pertundo tunicamque palliumque.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 33,
+		caput: 'XXXIII. ad Vibennios',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `O furum optime balneariorum<br>
+Vibenni pater, et cinaede fili,<br>
+(nam dextra pater inquinatiore,<br>
+culo filius est voraciore)<br>
+cur non exsilium malasque in oras<br>
+itis, quandoquidem patris rapinae<br>
+notae sunt populo, et natis pilosas,<br>
+fili, non potes asse venditare?<br>`,
+		english: `---`
+	},
+	{ 
+		id: 34,
+		caput: 'XXXIV. carmen Dianae',
+		meter: 'Three second Glyconics catalectic and one second Pherecratic acatalectic',
+		commentaria: 'none',
+		latin: `<p>Dianae sumus in fide<br>
+puellae et pueri integri;<br>
+Dianam pueri integri<br>
+puellaeque canamus.<br></p>
+<p>O Latonia, maximi<br>
+magna progenies Iovis,<br>
+quam mater prope Deliam<br>
+deposivit olivam,<br></p>
+<p>montium domina ut fores<br>
+silvarumque virentium<br>
+saltuumque reconditorum<br>
+amniumque sonantum;<br></p>
+<p>tu Lucina dolentibus<br>
+Iuno dicta puerperis,<br>
+tu potens Trivia et notho es<br>
+dicta lumine Luna.<br></p>
+<p>tu cursu, dea, menstruo<br>
+metiens iter annuum<br>
+rustica agricolae bonis<br>
+tecta frugibus exples.<br></p>
+<p>sis quocumque tibi placet<br>
+sancta nomine, Romulique,<br>
+antique ut solita es, bona<br>
+sospites ope gentem.<br></p>`,
+		english: `---`
+	},
+	{ 
+		id: 35,
+		caput: 'XXXV. ad Caecilium iubet libello loqui',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Poetae tenero, meo sodali<br>
+velim Caecilio, papyre, dicas,<br>
+Veronam veniat, Novi relinquens<br>
+Comi moenia Lariumque litus:<br>
+nam quasdam volo cogitationes<br>
+amici accipiat sui meique.<br>
+quare, si sapiet, viam vorabit,<br>
+quamvis candida milies puella<br>
+euntem revocet manusque collo<br>
+ambas iniciens roget morari,<br>
+quae nunc, si mihi vera nuntiantur,<br>
+illum deperit impotente amore:<br>
+nam quo tempore legit incohatam<br>
+Dindymi dominam, ex eo misellae<br>
+ignes interiorem edunt medullam.<br>
+ignosco tibi, Sapphica puella<br>
+Musa doctior: est enim venuste<br>
+Magna Caecilio incohata Mater.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 36,
+		caput: 'XXXVI. ad Lusi cacatam',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Annales Volusi, cacata charta,<br>
+votum solvite pro mea puella:<br>
+nam sanctae Veneri Cupidinique<br>
+vovit, si sibi restitutus essem<br>
+desissemque truces vibrare iambos,<br>
+electissima pessimi poetae<br>
+scripta tardipedi deo daturam<br>
+infelicibus ustilanda lignis.<br>
+et hoc pessima se puella vidit<br>
+iocose lepide vovere divis.<br>
+nunc, o caeruleo creata ponto,<br>
+quae sanctum Idalium Uriosque apertos,<br>
+quaeque Ancona Cnidumque harundinosam<br>
+colis, quaeque Amathunta, quaeque Golgos,<br>
+quaeque Durrachium Hadriae tabernam,<br>
+acceptum face redditumque votum,<br>
+si non inlepidum neque invenustum est.<br>
+at vos interea venite in ignem,<br>
+pleni ruris et inficetiarum<br>
+Annales Volusi, cacata charta.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 37,
+		caput: 'XXXVII. ad contubernales et Egnatium',
+		meter: 'Choliambic',
+		commentaria: 'none',
+		latin: `Salax taberna vosque contubernales,<br>
+a pilleatis nona fratribus pila,<br>
+solis putatis esse mentulas vobis,<br>
+solis licere quidquid est puellarum<br>
+confutuere et putare ceteros hircos?<br>
+an, continenter quod sedetis insulsi<br>
+centum an ducenti, non putatis ausurum<br>
+me una ducentos irrumare sessores?<br>
+atqui putate: namque totius vobis<br>
+frontem tabernae sopionibus scribam.<br>
+puella nam mi, quae meo sinu fugit,<br>
+amata tantum quantum amabitur nulla,<br>
+pro qua mihi sunt magna bella pugnata,<br>
+consedit istic.  hanc boni beatique<br>
+omnes amatis, et quidem, quod indignum est,<br>
+omnes pusilli et semitarii moechi:<br>
+tu praeter omnes une de capillatis,<br>
+cuniculosae Celtiberiae fili,<br>
+Egnati, opaca quem bonum facit barba<br>
+et dens Hibera defricatus urina.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 38,
+		caput: 'XXXVIII. ad Cornificium',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Male est, Cornifici, tuo Catullo,<br>
+male est me hercule ei et laboriose,<br>
+et magis magis in dies et horas.<br>
+quem tu, quod minimum facillimumque est,<br>
+qua solatus es adlocutione?<br>
+irascor tibi.  sic meos amores?<br>
+paulum quid libet adlocutionis,<br>
+maestius lacrimis Simonideis.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 39,
+		caput: 'XXXIX. ad Egnatium',
+		meter: 'Choliambic',
+		commentaria: 'none',
+		latin: `Egnatius, quod candidos habet dentes,<br>
+renidet usque quaque.  si ad rei ventum est<br>
+subsellium, cum orator excitat fletum,<br>
+renidet ille.  si ad pii rogum fili<br>
+lugetur, orba cum flet unicum mater,<br>
+renidet ille.  quidquid est, ubicumque est,<br>
+quodcumque agit, renidet.  hunc habet morbum<br>
+neque elegantem, ut arbitror, neque urbanum.<br>
+quare monendum est te mihi, bone Egnati.<br>
+si urbanus esses aut Sabinus aut Tiburs<br>
+aut parcus Umber aut obesus Etruscus<br>
+aut Lanuvinus ater atque dentatus<br>
+aut Transpadanus, ut meos quoque attingam,<br>
+aut qui libet qui puriter lavit dentes,<br>
+tamen renidere usque quaque te nollem;<br>
+nam risu inepto res ineptior nulla est.<br>
+nunc Celtiber es: Celtiberia in terra,<br>
+quod quisque minxit, hoc sibi solet mane<br>
+dentem atque russam defricare gingivam,<br>
+ut quo iste vester expolitior dens est,<br>
+hoc te amplius bibisse praedicet loti.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 40,
+		caput: 'XL. ad Ravidum',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Quaenam te mala mens, miselle Ravide,<br>
+agit praecipitem in meos iambos?<br>
+quis deus tibi non bene advocatus<br>
+vecordem parat excitare rixam?<br>
+an ut pervenias in ora vulgi?<br>
+quid vis? qua libet esse notus optas?<br>
+eris, quandoquidem meos amores<br>
+cum longa voluisti amare poena.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 41,
+		caput: 'XLI. ad Ameanam',
+		meter: 'Phalaecean',
+		commentaria: 'none',
+		latin: `Ameana puella defututa<br>
+tota milia me decem poposcit,<br>
+ista turpiculo puella naso,<br>
+decoctoris amica Formiani.<br>
+propinqui, quibus est puella curae,<br>
+amicos medicosque convocate:<br>
+non est sana puella, nec rogare<br>
+qualis sit solet aes imaginosum.<br>`,
+		english: `---`
+	},
+	{ 
+		id: 42,
+		caput: '---',
+		meter: 'none',
+		commentaria: 'none',
+		latin: `---`,
+		english: `---`
+	},					
+]
+
+
