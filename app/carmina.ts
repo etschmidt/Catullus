@@ -743,6 +743,72 @@ and abandon that indolent mind in the heavy bog,<br>
 as mules cast shoes into tenacious depths.<br>`
       },            
       { 
+            id: 18,
+            caput: 'XVIII. The Scholars',
+            meter: 'Iambic Tetrameter',
+            commentaria: 'none',
+            latin: `<p>BALD heads forgetful of their sins,<br>  
+        Old, learned, respectable bald heads<br>
+        Edit and annotate the lines<br>
+        That young men, tossing on their beds,<br>
+        Rhymed out in love’s despair<br>
+        To flatter beauty’s ignorant ear.
+        </p>
+        <p>
+        They’ll cough in the ink to the world’s end;<br>
+        Wear out the carpet with their shoes<br>
+        Earning respect; have no strange friend;<br>
+        If they have sinned nobody knows.<br>
+        Lord, what would they say<br>
+        Should their Catullus walk that way?<br></p>
+        <p>W.B. Yeats (1865–1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
+            english: ``
+      },
+      { 
+            id: 19,
+            caput: 'IXX. The Scholars',
+            meter: 'Iambic Tetrameter',
+            commentaria: 'none',
+            latin: `<p>BALD heads forgetful of their sins,<br>  
+        Old, learned, respectable bald heads<br>
+        Edit and annotate the lines<br>
+        That young men, tossing on their beds,<br>
+        Rhymed out in love’s despair<br>
+        To flatter beauty’s ignorant ear.
+        </p>
+        <p>
+        They’ll cough in the ink to the world’s end;<br>
+        Wear out the carpet with their shoes<br>
+        Earning respect; have no strange friend;<br>
+        If they have sinned nobody knows.<br>
+        Lord, what would they say<br>
+        Should their Catullus walk that way?<br></p>
+        <p>W.B. Yeats (1865–1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
+            english: ``
+      },
+      { 
+            id: 20,
+            caput: 'XX. The Scholars',
+            meter: 'Iambic Tetrameter',
+            commentaria: 'none',
+            latin: `<p>BALD heads forgetful of their sins,<br>  
+        Old, learned, respectable bald heads<br>
+        Edit and annotate the lines<br>
+        That young men, tossing on their beds,<br>
+        Rhymed out in love’s despair<br>
+        To flatter beauty’s ignorant ear.
+        </p>
+        <p>
+        They’ll cough in the ink to the world’s end;<br>
+        Wear out the carpet with their shoes<br>
+        Earning respect; have no strange friend;<br>
+        If they have sinned nobody knows.<br>
+        Lord, what would they say<br>
+        Should their Catullus walk that way?<br></p>
+        <p>W.B. Yeats (1865–1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
+            english: ``
+      },
+      { 
             id: 21,
             caput: 'XXI. ad Aurelium',
             meter: 'Phalaecean',
