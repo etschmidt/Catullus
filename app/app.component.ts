@@ -18,6 +18,7 @@ import { SearchPipe } from './search.pipe';
 export class AppComponent implements OnInit {
 	title = 'Carmina Catulli';
 	carmina: Carmen[];
+	values = '';
 	
 	constructor(
 		private router: Router,
