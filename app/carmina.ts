@@ -761,7 +761,7 @@ as mules cast shoes into tenacious depths.<br>`
         If they have sinned nobody knows.<br>
         Lord, what would they say<br>
         Should their Catullus walk that way?<br></p>
-        <p>W.B. Yeats (1865ñ1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
+        <p>W.B. Yeats (1865-1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
             english: ``
       },
       { 
@@ -783,7 +783,7 @@ as mules cast shoes into tenacious depths.<br>`
         If they have sinned nobody knows.<br>
         Lord, what would they say<br>
         Should their Catullus walk that way?<br></p>
-        <p>W.B. Yeats (1865ñ1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
+        <p>W.B. Yeats (1865-1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
             english: ``
       },
       { 
@@ -805,7 +805,7 @@ as mules cast shoes into tenacious depths.<br>`
         If they have sinned nobody knows.<br>
         Lord, what would they say<br>
         Should their Catullus walk that way?<br></p>
-        <p>W.B. Yeats (1865ñ1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
+        <p>W.B. Yeats (1865-1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
             english: ``
       },
       { 

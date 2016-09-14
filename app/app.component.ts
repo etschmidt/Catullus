@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Directive, OnInit } from '@angular/core';
 
 import { Router } from '@angular/router';
 
@@ -11,8 +11,7 @@ import { SearchPipe } from './search.pipe';
 	templateUrl: 'app/templates/app.component.html',
 	styleUrls: [
 	'app/styles/app.component.css'
-	],
-	pipes: [SearchPipe]
+	]
 })
 
 export class AppComponent implements OnInit {

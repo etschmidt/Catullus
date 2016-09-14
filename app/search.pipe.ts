@@ -1,4 +1,4 @@
-import { Pipe, PipeTransform } from '@angular/core';
+import { Directive, Pipe, PipeTransform } from '@angular/core';
 
 @Pipe({
 	name: 'searchPipe'
