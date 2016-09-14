@@ -5,7 +5,7 @@ export const CARMINA: Carmen[] = [
             id: 1,
             caput: 'I. ad Corneliam',
             meter: 'Phalaecean',
-            commentaria: 'app/img/1.jpg',
+            commentaria: 'app/img/1.pdf',
             latin: `Cui dono lepidum novum libellum<br>
 arida modo pumice expolitum?<br>
 Corneli, tibi: namque tu solebas<br>
@@ -389,20 +389,20 @@ while neither the praetors nor their aides,<br>
 return any the richer, especially since<br>
 our Praetor, Memmius, the bugger,<br>
 cared not a jot for his followers.<br>
-ëBut surely,' they said, you could have bought<br>
+ÎBut surely,' they said, you could have bought<br>
 slaves they say are made for the litter there.'<br>
 I, so the girl might take me to be wealthy,<br>
-said ëno, for me things weren't so bad,<br>
+said Îno, for me things weren't so bad,<br>
 that coming across one bad province,<br>
 I couldn't buy eight good men.'<br>
 But I'd no one, neither here nor there,<br>
 who might even raise to his shoulder<br>
 the shattered foot of an old couch.<br>
 At this she, like the shameless thing she was, said<br>
-ëI beg you, my dear Catullus, for the loan of them,<br>
+ÎI beg you, my dear Catullus, for the loan of them,<br>
 just for a while: I'd like to be carried<br>
-to Serap's temple.' ëWait' I said to the girl,<br>
-ëwhat I just said was mine, isn't actually in<br>
+to Serap's temple.' ÎWait' I said to the girl,<br>
+Îwhat I just said was mine, isn't actually in<br>
 my possession: my friend Cinna, that's Gaius,<br>
 purchased the thing for himself.<br>
 Whether they're his or mine, what difference to me?<br>
@@ -634,9 +634,9 @@ Aurelius. I ask for modest indulgence,<br>
 so, if you've ever had a desire in your mind<br>
 you've pursued chastely and purely,<br>
 keep this boy of mine modestly safe,<br>
-I don't speak to the masses ñ nothing to fear<br>
+I don't speak to the masses Ò nothing to fear<br>
 from those who pass to and fro in the streets<br>
-occupied with their business ñ<br>
+occupied with their business Ò<br>
 truly the fear's of you and your cock<br>
 dangerous to both good and bad boys.<br>
 Shake it about as you please, and with as much<br>
@@ -751,17 +751,17 @@ as mules cast shoes into tenacious depths.<br>`
         Old, learned, respectable bald heads<br>
         Edit and annotate the lines<br>
         That young men, tossing on their beds,<br>
-        Rhymed out in love’s despair<br>
-        To flatter beauty’s ignorant ear.
+        Rhymed out in love's despair<br>
+        To flatter beauty's ignorant ear.
         </p>
         <p>
-        They’ll cough in the ink to the world’s end;<br>
+        They'll cough in the ink to the world's end;<br>
         Wear out the carpet with their shoes<br>
         Earning respect; have no strange friend;<br>
         If they have sinned nobody knows.<br>
         Lord, what would they say<br>
         Should their Catullus walk that way?<br></p>
-        <p>W.B. Yeats (1865–1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
+        <p>W.B. Yeats (1865ñ1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
             english: ``
       },
       { 
@@ -773,17 +773,17 @@ as mules cast shoes into tenacious depths.<br>`
         Old, learned, respectable bald heads<br>
         Edit and annotate the lines<br>
         That young men, tossing on their beds,<br>
-        Rhymed out in love’s despair<br>
-        To flatter beauty’s ignorant ear.
+        Rhymed out in love's despair<br>
+        To flatter beauty's ignorant ear.
         </p>
         <p>
-        They’ll cough in the ink to the world’s end;<br>
+        They'll cough in the ink to the world's end;<br>
         Wear out the carpet with their shoes<br>
         Earning respect; have no strange friend;<br>
         If they have sinned nobody knows.<br>
         Lord, what would they say<br>
         Should their Catullus walk that way?<br></p>
-        <p>W.B. Yeats (1865–1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
+        <p>W.B. Yeats (1865ñ1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
             english: ``
       },
       { 
@@ -795,17 +795,17 @@ as mules cast shoes into tenacious depths.<br>`
         Old, learned, respectable bald heads<br>
         Edit and annotate the lines<br>
         That young men, tossing on their beds,<br>
-        Rhymed out in love’s despair<br>
-        To flatter beauty’s ignorant ear.
+        Rhymed out in love's despair<br>
+        To flatter beauty's ignorant ear.
         </p>
         <p>
-        They’ll cough in the ink to the world’s end;<br>
+        They'll cough in the ink to the world's end;<br>
         Wear out the carpet with their shoes<br>
         Earning respect; have no strange friend;<br>
         If they have sinned nobody knows.<br>
         Lord, what would they say<br>
         Should their Catullus walk that way?<br></p>
-        <p>W.B. Yeats (1865–1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
+        <p>W.B. Yeats (1865ñ1939).  <i>The Wild Swans at Coole</i>, 1919.</p>`,
             english: ``
       },
       { 
@@ -969,7 +969,7 @@ or will be hereafter in later years,<br>
 rather surrender Midas's riches<br>
 to him, who has no slaves or cash,<br>
 than allow yourself to be loved by him.<br>
-ëWhy, isn't he a decent man?' you ask. He is:<br>
+ÎWhy, isn't he a decent man?' you ask. He is:<br>
 but this decent man has no slaves or cash.<br>
 Ignore it: disparage it as you may:<br>
 he still has no slaves and no money.<br>`
@@ -999,7 +999,7 @@ and that same Thallus more rapacious than a wild storm,<br>
 when the sea-goddess reveals the yawning breakwaters,<br>
 return my cloak, you pounced on,<br>
 and Spanish napkin, and Bithynian painted ware,<br>
-absurd man, that you ëown' openly like heirlooms.<br>
+absurd man, that you Îown' openly like heirlooms.<br>
 Now, unglue them from your talons, and return them,<br>
 lest those soft little flanks and tender fingers<br>
 are shamefully written over with the mark of the lash,<br>
@@ -1539,7 +1539,7 @@ qualis sit solet aes imaginosum.<br>`,
             english: `Ameana, a girl fucked by all,<br>
 requires ten thousand from me,<br>
 that girl with the ugly great nose,<br>
-bankrupt Formianus's ëfriend'.<br>
+bankrupt Formianus's Îfriend'.<br>
 Gather round, you who care for the girl,<br>
 assemble together, doctors and friends:<br>
 the girl's not well, don't ask what it is:<br>
@@ -1584,20 +1584,20 @@ Which one, you may ask? The one you can see<br>
 strutting disgracefully, laughing ridiculously,<br>
 maddening, with the jaws of a Gaulish bitch.<br>
 Surround her: ask for them back:<br>
-ëStinking adulteress, give back my letters,<br>
+ÎStinking adulteress, give back my letters,<br>
 give back, stinking adulteress, my letters!'<br>
 You won't? O to the mire, the brothel,<br>
 or if anything can be more ruinous, then that!<br>
 But still don't think that's enough.<br>
 Call her again in a louder voice:<br>
-ëStinking adulteress, give back my letters,<br>
+ÎStinking adulteress, give back my letters,<br>
 give back, stinking adulteress, my letters!'<br>
 But it's no use: nothing disturbs her.<br>
 We'd better change methods and tactics,<br>
 if we want them to be of more use to us:<br>
 let's see if we can't get a blush<br>
 from that bitch's brazen face.:<br>
-ëHonest and chaste one, give back my letters.'<br>`
+ÎHonest and chaste one, give back my letters.'<br>`
       },      
       { 
             id: 43,
@@ -1616,7 +1616,7 @@ o saeclum insapiens et infacetum!<br>`,
 feet not so lovely, eyes not of the darkest,<br>
 fingers not slender, mouth never healed,<br>
 and a not excessively charming tongue,<br>
-bankrupt Formianus's ëlittle friend'.<br>
+bankrupt Formianus's Îlittle friend'.<br>
 And the Province pronounces you beautiful?<br>
 To be compared to my Lesbia?<br>
 O witless and ignorant age!<br>`
@@ -1702,7 +1702,7 @@ facit delicias libidinesque.<br>
 quis ullos homines beatiores<br>
 vidit, quis Venerem auspicatiorem?<br>`,
             english: `Septimius holding his beloved Acme<br>
-in his lap, said: ëAcme, mine, if I<br>
+in his lap, said: ÎAcme, mine, if I<br>
 don't love you desperately, and love forever,<br>
 continually through all the years,<br>
 as much as he who loves the most,<br>
@@ -1713,7 +1713,7 @@ sneezed his approbation.<br>
 But Acme lifted her head slightly<br>
 and her charming red lips spoke<br>
 to her sweet boy's intoxicated eyes:<br>
-ëSo, Septimius, mea vita,<br>
+ÎSo, Septimius, mea vita,<br>
 let us always serve this one lord,<br>
 that more deeply and more fiercely<br>
 the fire will burn my tender marrow.'<br>
@@ -1895,7 +1895,7 @@ I see you, Lesbia, nothing's left of me. . .<br></p>
 fires are raging, the echo of your voice<br>
 rings in both ears, my eyes are covered<br>
 with the dark of night.<br></p>
-<p>ëYour idleness is loathsome Catullus:<br>
+<p>ÎYour idleness is loathsome Catullus:<br>
 you delight in idleness, and too much posturing:<br>
 idleness ruined the kings and the cities<br>
 of former times.'<br></p>`
@@ -1927,7 +1927,7 @@ admirans ait haec manusque tollens<br>
             english: `I laughed when someone, from the crowd,<br>
 while my Calvus explained the Vatinian case<br>
 quite wonderfully, said admiringly, raising his hands:<br>
-ëGreat gods, what an eloquent little man!'<br>`
+ÎGreat gods, what an eloquent little man!'<br>`
       },      
       { 
             id: 54,
@@ -1980,10 +1980,10 @@ you, in the sacred shrine of great Jove.<br>
 I've detained all the girls together<br>
 in Pompey's Arcade, my friend,<br>
 whose faces were blank, however.<br>
-ëWorst of girls, reveal my Camerius',<br>
+ÎWorst of girls, reveal my Camerius',<br>
 so I demanded of them.<br>
 One replied, revealing her nudity. . .<br>
-ëLook he's hiding in these rosy breasts.'<br>
+ÎLook he's hiding in these rosy breasts.'<br>
 But, oh it's a labour of Hercules to bear with you:<br>
 as much as your pride denies it, my friend.<br>
 Since I'm not that bronze guardian of Crete,<br>
@@ -2462,7 +2462,7 @@ let the new bride appear.<br>
 O, you boys, lift the torches:<br>
 I see the flame approach.<br>
 Come: let the song sound in harmony<br>
-ëio Hymen Hymenaee io,<br>
+Îio Hymen Hymenaee io,<br>
 io Hymen Hymenaee.'<br>
 Don't hold back the bold<br>
 Fescennine laughter,<br>
@@ -2833,7 +2833,7 @@ he took up the drum lightly in his pale hands,<br>
 your drum, Cybele, yours, Great Mother, in your rite,<br>
 and striking the sounding bull's-hide with delicate fingers,<br>
 chanted to his followers, as it quivered from his assault:<br>
-ëGallae, come, rise, to the high woods of Cybele, now,<br>
+ÎGallae, come, rise, to the high woods of Cybele, now,<br>
 come, now, wandering cattle of Dindymus's Lady,<br>
 like exiles wandering here on an alien shore,<br>
 followers of my way, lead by me, my friends,<br>
@@ -2871,7 +2871,7 @@ and saw with a clear heart what and where he had been,<br>
 turning again with passionate mind to the sea.<br>
 There gazing at the wide waters with tearful eyes<br>
 he raised his voice and sadly bemoaned his homeland:<br>
-ëLand that fathered me, land that mothered me,<br>
+ÎLand that fathered me, land that mothered me,<br>
 I, who left you so sadly, have reached the groves of Ida,<br>
 like a slave fleeing his master, so am I among<br>
 snows, and the frozen lairs of wild creatures,<br>
@@ -2899,7 +2899,7 @@ As the swift sounds leave his rosy lips<br>
 the fresh words reach the twin ears of the goddess,<br>
 as Cybele is loosing the lions from their yoke<br>
 and goading the left-hand beast: she spoke to it,<br>
-saying: ëGo now, be fierce, so you make him mad, so he<br>
+saying: ÎGo now, be fierce, so you make him mad, so he<br>
 is forced to return to the grove by the pain of his madness,<br>
 he who desires to escape my rule so freely.<br>
 Let your tail wound your back, let the lashes show,<br>
@@ -3459,7 +3459,7 @@ then run against the waves into the salt tremor<br>
 holding her soft clothes above her naked calves,<br>
 and call out mournfully this last complaint,<br>
 a frozen sob issuing from her wet face:<br>
-ëFalse Theseus, is this why you take me from my father's land,<br>
+ÎFalse Theseus, is this why you take me from my father's land,<br>
 faithless man, to abandon me on a desert shore?<br>
 Is this how you vanish, heedless of the god's power,<br>
 ah, uncaring, bearing home your accursed perjuries?<br>
@@ -3543,7 +3543,7 @@ when the harbour of Athens safely came in sight.<br>
 For they say that when Aegeus parted from his son,<br>
 as the goddess's ship left the city, he yielded him<br>
 to the wind's embrace with these words:<br>
-ëSon, more dear to me than my long life,<br>
+ÎSon, more dear to me than my long life,<br>
 son, whom I abandoned through chance uncertainty,<br>
 lately returned to me in the last days of my old age,<br>
 since my fate and your fierce virtue tear you away<br>
@@ -3585,7 +3585,7 @@ seeking you, Ariadne, burning with love for you.<br>
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .<br>
 In rapture his Bacchantes raved madly, crazed in mind,<br>
-with cries of ëeuhoe' and tossing heads,<br>
+with cries of Îeuhoe' and tossing heads,<br>
 some brandished the thyrsus with hidden tip,<br>
 some flourished the torn limbs of bullocks,<br>
 some wreathed themselves with twining snakes,<br>
@@ -3654,7 +3654,7 @@ was guarded by a basket woven of willow.<br>
 Then in a clear voice, pushing away the fleece,<br>
 they poured out these prophecies in divine song,<br>
 song not to be proven wrong, by any amount of years.<br>
-ëDefence of Thessaly, dearest of Jupiter's scions,<br>
+ÎDefence of Thessaly, dearest of Jupiter's scions,<br>
 adding marvellous glory to your great powers,<br>
 accept what the glad sisters bring to the light,<br>
 true oracles: but you who accompany fate,<br>
@@ -4049,7 +4049,7 @@ and served the son, on the contrary, quite badly, it's said,<br>
 when you became a wedding gift with the old man dead.<br>
 Come on, tell us, why exhibit this change<br>
 deserting old loyalties of ownership?<br>
-ëIt's not my fault (I please this Caecilius, I'm handed<br>
+ÎIt's not my fault (I please this Caecilius, I'm handed<br>
 over to now), though it's said to be mine,<br>
 it's no sin of mine that anyone can say anything:<br>
 truly a door of your people answers you,<br>
@@ -4057,9 +4057,9 @@ me, to whom whenever some ill deed's discovered<br>
 all cry out: "It's your fault, door."'<br>
 It's not enough to say that, with a word,<br>
 but you must do what anyone might see and know.<br>
-ëHow can I? No one asks or takes the trouble to know?'<br>
+ÎHow can I? No one asks or takes the trouble to know?'<br>
 I will, tell me, don't hesitate.<br>
-ëWell first, the virgin, they say, who was handed over to us,<br>
+ÎWell first, the virgin, they say, who was handed over to us,<br>
 was false. The husband wasn't the first to touch her,<br>
 he whose sword hangs limper than a tender beet,<br>
 never lifting the middle of his tunic:<br>
@@ -4071,7 +4071,7 @@ so it was necessary to search for one more vigorous,<br>
 who could undo her virgin tie.'<br>
 You tell of an illustrious father with amazing piety.<br>
 who comes in his own son's lap.<br>
-ëAnd Brescia under the cliffs of Cycnea,<br>
+ÎAnd Brescia under the cliffs of Cycnea,<br>
 that golden Mella with sweet water runs by,<br>
 Brescia dear mother of my Verona, says <br>
 he isn't the only one known to have had her,<br>
@@ -4817,11 +4817,545 @@ No faith in any tie was ever so great,<br>
 as has been found, on my part, in love of you.<br>`
       },            
       { 
-            id: 64,
-            caput: '---',
-            meter: 'none',
+            id: 88,
+            caput: 'LXXXVIII. ad Gellium',
+            meter: 'Elegiac',
             commentaria: 'none',
-            latin: `---`,
-            english: `---`
+            latin: `Quid facit is, Gelli, qui cum matre atque sorore<br>
+prurit et abiectis pervigilat tunicis?<br>
+quid facit is patruum qui non sinit esse maritum?<br>
+ecquid scis quantum suscipiat sceleris?<br>
+suscipit, o Gelli, quantum non ultima Tethys<br>
+nec genitor nympharum abluit Oceanus:<br>
+nam nihil est quicquam sceleris quo prodeat ultra,<br>
+non si demisso se ipse voret capite.<br>`,
+            english: `What's he doing, Gellius, the man who wantons<br>
+with mother and sister, up all night, with no clothes on?<br>
+What's he doing, who won't let his uncle play husband?<br>
+Do you know how much sin any man might incur?<br>
+O Gellius, he incurs so much not furthest Tethys<br>
+can wash it away, nor Ocean begetter of Nymphs:<br>
+since there's no sin at all that exists beyond that one,<br>
+not if he bent his head, and swallowed himself.<br>`
+      },         
+      { 
+            id: 89,
+            caput: 'LXXXIX. ad Gellium',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Gellius est tenuis: quid ni? cui tam bona mater<br>
+tamque valens vivat tamque venusta soror<br>
+tamque bonus patruus tamque omnia plena puellis<br>
+cognatis, quare is desinat esse macer?<br>
+qui ut nihil attingat, nisi quod fas tangere non est,<br>
+quantumvis quare sit macer invenies.<br>`,
+            english: `Gellius is thin: why wouldn't he be? Whose mother enjoys life,<br>
+so kind and so healthy, and a sister so charming,<br>
+and so kind an uncle, and everywhere filled so with<br>
+girls who're related, why should he leave off being lean?<br>
+Though he touched nothing, but what it's illegal to touch,<br>
+you'd find any number of reasons why he'd be lean.<br>`
+      },          
+      { 
+            id: 90,
+            caput: 'XC. ad Gellium',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Nascatur magus ex Gelli matrisque nefando<br>
+coniugio et discat Persicum haruspicium:<br>
+nam magus ex matre et gnato gignatur oportet,<br>
+si vera est Persarum impia religio,<br>
+gratus ut accepto veneretur carmine divos<br>
+omentum in flamma pingue liquefaciens.<br>`,
+            english: `Let a Magus be born from the sinful union<br>
+of Gellius and his mother, and learn Persian soothsaying:<br>
+since a Magus ought to be born from a mother and son,<br>
+if the impious religion of the Persians is true,<br>
+so with acceptable chants he'll pleasingly worship the gods<br>
+melting the entrails in the greasy flame.<br>
+`
+      },          
+      { 
+            id: 91,
+            caput: 'XCI. ad Gellium',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Non ideo, Gelli, sperabam te mihi fidum<br>
+in misero hoc nostro, hoc perdito amore fore<br>
+quod te cognossem bene constantemve putarem<br>
+aut posse a turpi mentem inhibere probro,<br>
+sed neque quod matrem nec germanam esse videbam<br>
+hanc tibi cuius me magnus edebat amor;<br>
+et quamvis tecum multo coniungerer usu,<br>
+non satis id causae credideram esse tibi.<br>
+tu satis id duxti: tantum tibi gaudium in omni<br>
+culpa est in quacumque est aliquid sceleris.<br>`,
+            english: `It's not because I knew you well or thought you faithful,<br>
+Gellius, or thought you could keep your mind from vile sin,<br>
+that I expected you to be true to me<br>
+in this hopeless ruinous love of mine:<br>
+but because I was aware that she, for whom a vast desire<br>
+consumes me, was no mother or sister of yours.<br>
+And though I was closely linked to you by friendship,<br>
+I didn't think that was enough excuse for you.<br>
+You considered it enough: there's so much pleasure<br>
+in every game to you, in which there's any sin.<br>`
+      },          
+      { 
+            id: 92,
+            caput: 'XCII. ad Lesbia',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Lesbia mi dicit semper male nec tacet unquam<br>
+de me: Lesbia me dispeream nisi amat.<br>
+quo signo? quia sunt totidem mea: deprecor illam<br>
+adsidue, verum dispeream nisi amo.<br>`,
+            english: `Lesbia always speaks ill of me, never shuts up<br>
+about me: damn me if she doesn't love me.<br>
+What's the sign? Because it's the same with me: I'm<br>
+continually complaining, but damn me if I don't love her.<br>`
+      },          
+      { 
+            id: 93,
+            caput: 'XCIII. ad Gaium Iulium Caesarem',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Nil nimium studeo, Caesar, tibi velle placere,<br>
+nec scire utrum sis albus an ater homo.<br>`,
+            english: `I've no great inclination to want to please you, Caesar,<br>
+or to know which of the two you are, black or white.<br>`
+      },          
+      { 
+            id: 94,
+            caput: 'XCIV. ad Mentulam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Mentula moechatur. moechatur mentula certe.<br>
+hoc est quod dicunt, ipsa olera olla legit.<br>`,
+            english: `Mentula the Cock fornicates. Does a Cock fuck? For sure.<br>
+That's what they say: the pot picks its own herbs.<br>`
+      },          
+      { 
+            id: 95,
+            caput: 'XCV. ad Gaium Helvium Cinnam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Zmyrna mei Cinnae nonam post denique messem<br>
+quam coepta est nonamque edita post hiemem,<br>
+milia cum interea quingenta Hortensius uno<br>
+. . . . . . . . . . . .<br>
+Zmyrna cavas Satrachi penitus mittetur ad undas,<br>
+Zmyrnam cana diu saecula pervolvent.<br>
+at Volusi annales Paduam morientur ad ipsam<br>
+et laxas scombris saepe dabunt tunicas.<br>
+parva mei mihi sint cordi monumenta sodalis:<br>
+at populus tumido gaudeat Antimacho.<br>`,
+            english: `My Cinna's Smyrna is published at last, nine<br>
+summers and winters after it was begun,<br>
+while from Hatria there's half a million verses a year<br>
+. . . . . . . . . . . .<br>
+Smyrna, reaching the deep streams of Cyprian Satrachus,<br>
+white-haired centuries will long read Smyrna.<br>
+But Volusian annals will be stillborn in Padua,<br>
+and often provide a limp wrapper for mackerel.<br>
+Let my friend's little monument be dear to me,<br>
+and the masses delight in swollen Antimachus.<br>`
+      },          
+      { 
+            id: 96,
+            caput: 'XCVI. ad Gaium Licinium Calvum',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Si quicquam mutis gratum acceptumve sepulcris<br>
+accidere a nostro, Calve, dolore potest,<br>
+quo desiderio veteres renovamus amores<br>
+atque olim missas flemus amicitias,<br>
+certe non tanto mors immatura dolori est<br>
+Quintiliae, quantum gaudet amore tuo.<br>`,
+            english: `<br>96. Beyond The Grave: to Gaius Licinius Calvus<br>
+If anything from our grief, can reach beyond<br>
+the mute grave, Calvus, and be pleasing and welcome,<br>
+grief with which, in longing, we revive our lost loves,<br>
+and weep for vanished friendships once known,<br>
+surely Quintilia's not so much sad for her early death,<br>
+as joyful for your love.<br>`
+      },          
+      { 
+            id: 97,
+            caput: 'XCVII. ad Aemilium',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Non (ita me di ament) quicquam referre putavi<br>
+utrumne os an culum olfacerem Aemilio.<br>
+nilo mundius hoc, nihiloque immundius illud,<br>
+verum etiam culus mundior et melior:<br>
+nam sine dentibus est. hoc dentis sesquipedalis,<br>
+gingivas vero ploxeni habet veteris,<br>
+praeterea rictum qualem diffissus in aestu<br>
+meientis mulae cunnus habere solet.<br>
+hic futuit multas et se facit esse venustum,<br>
+et non pistrino traditur atque asino?<br>
+quem si qua attingit, non illam posse putemus<br>
+aegroti culum lingere carnificis?<br>`,
+            english: `I did not (may the gods love me) think it mattered,<br>
+whether I might be smelling Aemilius's mouth or arse.<br>
+The one's no cleaner, the other's no dirtier,<br>
+in fact his arse is both cleaner and nicer:<br>
+since it's no teeth. Indeed, the other has<br>
+foot long teeth, gums like an old box-cart,<br>
+and jaws that usually gape like the open<br>
+cunt of a pissing mule on heat.<br>
+He fucks lots of women, and makes himself out<br>
+to be charming, and isn't set to the mill with the ass?<br>
+Shouldn't we think, of any girl touching him,<br>
+she's capable of licking a foul hangman's arse?<br>`
+      },          
+      { 
+            id: 98,
+            caput: 'XCVIII. ad Victium',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `In te, si in quemquam, dici pose, putide Victi,<br>
+id quod verbosis dicitur et fatuis:<br>
+ista cum lingua, si usus veniat tibi, possis<br>
+culos et crepidas lingere carpatinas.<br>
+si nos omnino vis omnes perdere, Victi,<br>
+hiscas: omnino quod cupis efficies.<br>`,
+            english: `About you, if anyone, Stinking Victius, can be said<br>
+what they say of the verbose and fatuous.<br>
+With that tongue, if the need arose,<br>
+you could lick arses, and leather-soled sandals.<br>
+If you want to destroy us completely, Victius,<br>
+gape at us: what you desire you'll wholly achieve.<br>`
+      },          
+      { 
+            id: 99,
+            caput: 'XCIX. ad Iuventium',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Subripui tibi, dum ludis, mellite Iuventi,<br>
+saviolum dulci dulcius ambrosia.<br>
+verum id non impune tuli: namque amplius horam<br>
+suffixum in summa me memini esse cruce,<br>
+dum tibi me purgo nec possum fletibus ullis<br>
+tantillum vestrae demere saevitiae.<br>
+nam simul id factum est, multis diluta labella<br>
+guttis abstersisti omnibus articulis,<br>
+ne quicquam nostro contractum ex ore maneret,<br>
+tanquam commictae spurca saliva lupae.<br>
+praeterea infesto miserum me tradere Amori<br>
+non cessasti omnique excruciare modo,<br>
+ut mi ex ambrosia mutatum iam fores illud<br>
+saviolum tristi tristius elleboro.<br>
+quam quoniam poenam misero proponis amori,<br>
+nunquam iam posthac basia subripiam.<br>`,
+            english: `I stole a sweet kiss while you played, sweet Iuventius,<br>
+one sweeter than sweetest ambrosia.<br>
+Not taken indeed with impunity: for more than an hour<br>
+I remember, I hung at the top of the gallows,<br>
+while I was justifying myself to you, yet with my tears<br>
+I couldn't lessen your anger a tiny morsel.<br>
+No sooner was it done, than, your lips rinsed<br>
+with plenty of water, you banished it with your fingers,<br>
+so nothing contracted from my lips might remain,<br>
+as though it were the foul spit of a tainted whore.<br>
+More, you handed me unhappily to vicious love<br>
+who's not failed to torment me in every way,<br>
+so that sweet kiss, altered for me from ambrosia,<br>
+was more bitter than bitter hellebore then.<br>
+Since you lay down such punishments for unhappy love,<br>
+now, after this, I'll never steal kisses again.<br>`
+      },          
+      { 
+            id: 100,
+            caput: 'C. ad Marcum Caelium furum',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Caelius Aufilenum et Quintius Aufilenam<br>
+flos Veronensum depereunt iuvenum,<br>
+hic fratrem, ille sororem. hoc est quod dicitur illud<br>
+fraternum vere dulce sodalicium.<br>
+cui faveam potius? Caeli, tibi: nam tua nobis<br>
+per facta exhibita est unica amicitia<br>
+cum vesana meas torreret flamma medullas.<br>
+sis felix, Caeli, sis in amore potens.<br>`,
+            english: `Caelius with Aufilenus, and Quintius with Aufilena,<br>
+both madly in love with the brother, the sister,<br>
+the flower of Veronese youth. That as they say's<br>
+truly sweet, that fellowship of brothers.<br>
+Who shall I favour more? You, Caelius, since<br>
+your friendship, alone, saw me through my passion,<br>
+when the furious flames scorched me to the core.<br>
+Be happy, Caelius, be successful in love.<br>`
+      },          
+      { 
+            id: 101,
+            caput: 'CI. ad inferias',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Multas per gentes et multa per aequora vectus<br>
+advenio has miseras, frater, ad inferias,<br>
+ut te postremo donarem munere mortis<br>
+et mutam nequiquam adloquerer cinerem,<br>
+quandoquidem fortuna mihi tete abstulit ipsum,<br>
+heu miser indigne frater adempte mihi.<br>
+nunc tamen interea haec, prisco quae more parentum<br>
+tradita sunt tristi munere ad inferias,<br>
+accipe fraterno multum manantia fletu<br>
+atque in perpetuum, frater, ave atque vale.<br>`,
+            english: `Carried over many seas, and through many nations,<br>
+brother, I come to these sad funeral rites,<br>
+to grant you the last gifts to the dead,<br>
+and speak in vain to your mute ashes.<br>
+Seeing that fate has stolen from me your very self.<br>
+Ah alas, my brother, taken shamefully from me,<br>
+yet, by the ancient custom of our parents,<br>
+receive these sad gifts, offerings to the dead,<br>
+soaked deeply with a brother's tears,<br>
+and for eternity, brother: ëHail and Farewell!'<br>`
+      },          
+      { 
+            id: 102,
+            caput: 'CII. ad Cornelium Nepotem',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Si quicquam tacito commissum est fido ab amico<br>
+cuius sit penitus nota fides animi,<br>
+meque esse invenies illorum iure sacratum,<br>
+Corneli, et factum me esse puta Harpocratem.<br>`,
+            english: `If anything was ever entrusted by a friend to a silent<br>
+sure one, whose loyalty of spirit is deeply known,<br>
+you'll find I'm equally bound by that sacred rite,<br>
+Cornelius, and turned into a pure Harpocrates.<br>`
+      },          
+      { 
+            id: 103,
+            caput: 'CIII. ad Silonem',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Aut sodes mihi redde decem sestertia, Silo,<br>
+deinde esto quamvis saevus et indomitus:<br>
+aut, si te nummi deIectant, desine quaeso<br>
+Leno esse atque idem saevus et indomitus.<br>`,
+            english: `Silo, please return the ten sestertii,<br>
+and then be as wild and unruly as you like:<br>
+or, if you like the money, please leave off<br>
+being a pander, and wild and unruly too.<br>`
+      },          
+      { 
+            id: 104,
+            caput: 'CIV.',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Credis me potuisse meae maledicere vitae,<br>
+ambobus mihi quae carior est oculis?<br>
+non potui, nec, si possem, tam perdite amarem:<br>
+sed tu cum Tappone omnia monstra facis.<br>`,
+            english: `Do you think I could speak ill of my own life,<br>
+she who's dearer to me than my two eyes?<br>
+I couldn't, nor, if I could, would I love so desperately:<br>
+but you, with Tappo, you do everything monstrous.<br>`
+      },            
+      { 
+            id: 105,
+            caput: 'CV. ad Mentulam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Mentula conatur Pipleum scandere montem:<br>
+Musae furcillis praecipitem eiciunt.<br>`,
+            english: `Mentula the Cock tries to climb the Parnassian Mount:<br>
+the Muses with pitchforks toss him out, head first.<br>`
+      },            
+      { 
+            id: 106,
+            caput: 'CV. ad Mentulam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Cum puero bello praeconem qui videt esse,<br>
+quid credat, nisi se vendere discupere?<br>`,
+            english: `When you see one who's an auctioneer with a pretty boy,<br>
+what to think, but that he wants to advertise himself?<br>
+`
+      },            
+      { 
+            id: 107,
+            caput: 'CVII. ad Lesbiam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Si cui quid cupido optantique obtigit unquam<br>
+insperanti, hoc est gratum animo proprie.<br>
+quare hoc est gratum nobis quoque, carius auro,<br>
+quod te restituis, Lesbia, mi cupido:<br>
+restituis cupido atque insperanti, ipsa refers te<br>
+nobis. o lucem candidiore nota!<br>
+quis me uno vivit felicior, aut magis hac res<br>
+optandas vita dicere quis poterit?<br>`,
+            english: `If anything happens to one who desires it, and wishes<br>
+and never expects it, it's a special delight to the mind.<br>
+Likewise, this is delight, dearer than gold, to me,<br>
+that you come back to me, Lesbia, in my longing.<br>
+come back, desired and un-hoped for, give yourself<br>
+back to me. O day marked out with greater brightness!<br>
+Who exists more happily than me, or can say<br>
+that he wishes for any life greater than this?<br>`
+      },            
+      { 
+            id: 108,
+            caput: 'CVIII. ad Cominium',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Si, Comini, populi arbitrio tua cana senectus<br>
+spurcata impuris moribus intereat,<br>
+non equidem dubito quin primum inimica bonorum<br>
+lingua exsecta avido sit data vulturio,<br>
+effossos oculos voret atro gutture corvus,<br>
+intestina canes, cetera membra lupi.<br>`,
+            english: `If your white-haired old age, soiled by your impure ways,<br>
+is ended by will of the people, Cominius,<br>
+I've no doubt, for my part, your tongue, first, the enemy<br>
+of good, will be cut out, and given to eager vultures,<br>
+your eyes gouged out, swallowed by black-throated ravens,<br>
+your intestines by dogs, the rest of your body by wolves.<br>`
+      },            
+      { 
+            id: 109,
+            caput: 'CIX. ad Lesbiam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Iucundum, mea vita, mihi proponis amorem<br>
+hunc nostrum inter nos perpetuumque fore.<br>
+di magni, facite ut vere promittere possit<br>
+atque id sincere dicat et ex animo,<br>
+ut liceat nobis tota perducere vita<br>
+aeternum hoc sanctae foedus amicitiae.<br>`,
+            english: `You declare that this love of ours will be happy,<br>
+mea vita, and eternal between us.<br>
+Great gods, let it be that she promises truthfully,<br>
+and says it sincerely, and from her heart,<br>
+so we may extend, through the whole of our life,<br>
+this endless bond of sacred friendship.<br>`
+      },            
+      { 
+            id: 110,
+            caput: 'CX. ad Aufilenam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Aufilena, bonae semper laudantur amicae:<br>
+accipiunt pretium quod facere instituunt.<br>
+tu, quod promisti mihi, quod mentita, inimica es;<br>
+quod nec das et fers saepe, facts facinus.<br>
+aut facere ingenuae est, aut non promisse pudicae,<br>
+Aufilena, fuit: sed data corripere<br>
+fraudando Ü efficit plus quam meretricis avarae,<br>
+quae sese toto corpore prostituit.<br>`,
+            english: `Aufilena, just mistresses are always praised:<br>
+they accept their reward, for what they agree to.<br>
+You, who promised, dishonestly hostile, to me,<br>
+who don't give but just take, you do wrong.<br>
+To carry it through would be fine, Aufilena,<br>
+not to promise is chaste: but to snatch at what's given<br>
+in fraudulent service, is worse than the greediest whore<br>
+who offers herself with her whole body.<br>`
+      },            
+      { 
+            id: 111,
+            caput: 'CXI. ad Aufilenam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Aufilena, viro contentam vivere solo<br>
+nuptarum laus e laudibus eximiis:<br>
+sed cuivis quamvis potius succumbere par est<br>
+quam matrem fratres ex patruo parere.<br>`,
+            english: `To live content with one man, Aufilena,<br>
+is the glory of highest glories for a bride:<br>
+but its better to sleep with whoever she likes,<br>
+than be mother of her cousins by her uncle.<br>`
+      },            
+      { 
+            id: 112,
+            caput: 'CXII. ad Nasonem',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Multus homo est, Naso, neque tecum multus homo est qui<br>
+descendit: Naso, multus es et pathicus.<br>`,
+            english: `You're a lot of man, Naso, but lots of men<br>
+wouldn't stoop to you: Naso, a lot of man and a pathic.<br>`
+      },            
+      { 
+            id: 113,
+            caput: 'CXIII. ad Gaium Helvium Cinnam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Consule Pompeio primum duo, Cinna, solebant<br>
+Maeciliam: facto consule nunc iterum<br>
+manserunt duo, sed creverunt milia in unum<br>
+singula. fecundum semen adulterio.<br>`,
+            english: `In Pompey's first Consulate two men frequented Maecilia,<br>
+Cinna: now he is Consul again<br>
+those two remain, but each one's increased by a thousand.<br>
+The fruitful seed of adultery.<br>`
+      },            
+      { 
+            id: 114,
+            caput: 'CXIV. ad Mentulam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Firmanus saltu non falso Mentula dives<br>
+fertur, qui tot res in se habet egregias,<br>
+aucupium omne genus, piscis, prata, arva, ferasque.<br>
+nequiquam: fructus sumptibus exsuperat.<br>
+quare concedo sit dives, dum omnia desint;<br>
+saltum laudemus, dum domo ipse egeat.<br>`,
+            english: `They say, no lie, that Mentula the Cock is rich<br>
+with the pastures of Firmum, full of good things,<br>
+fowling of every kind, fish, meadows, fields and game.<br>
+In vain: his income's surpassed by his costs.<br>
+So, I concede he's rich, while everything's lacking.<br>
+lets praise the pastures, so long as he's in want.<br>
+`
+      },            
+      { 
+            id: 115,
+            caput: 'CXV. ad Mentulam',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Mentula habet iuxta triginta iugera prati,<br>
+quadraginta arvi: cetera sunt maria.<br>
+cur non divitiis Croesum superare potis sit<br>
+uno qui in saltu tot bona possideat,<br>
+prata, arva, ingentis silvas saltusque paludesque<br>
+usque ad Hyperboreos et mare ad Oceanum?<br>
+omnia magna haec sunt, tamen ipse est maximus ultro,<br>
+non homo, sed vero mentula magna minax.<br>`,
+            english: `Mentula's good for thirty acres of meadows,<br>
+forty of fields: the rest of it's marsh.<br>
+Why shouldn't he exceed Croesus in riches,<br>
+one who possesses so many assets, in land,<br>
+meadows, fields, vast woods and pastures and pools<br>
+as far as the Hyperboreans, and Ocean's seas?<br>
+All this is great, but he's the greatest of all,<br>
+not a man, but, in truth, a great projecting Cock.<br>`
+      },            
+      { 
+            id: 116,
+            caput: 'CXVI. ad Gellium',
+            meter: 'Elegiac',
+            commentaria: 'none',
+            latin: `Saepe tibi studioso animo venante requirens<br>
+carmina uti possem mittere Battiadae<br>
+qui te lenirem nobis, neu conarere<br>
+tela infesta mihi mittere in usque caput,<br>
+hunc video mihi nunc frustra sumptum esse laborem,<br>
+Gelli, nec nostras hic valuisse preces.<br>
+contra nos tela ista tua evitamus amictu:<br>
+at fixus nostris tu dabis supplicium.<br>`,
+            english: `I've often been searching around, my busy mind hunting,<br>
+as to how I could send you Callimachus's poems,<br>
+so they'd soften you towards me, so you'd not try<br>
+to land your hostile shafts on my head,<br>
+now I see I've troubled myself in vain,<br>
+Gellius, my good intentions were worthless.<br>
+I'll evade the shafts of yours you fire at me,<br>
+but you'll be punished, fixed for ever by mine.<br>`
       },                        
 ]
