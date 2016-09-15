@@ -5,7 +5,7 @@ export const CARMINA: Carmen[] = [
             id: 1,
             caput: 'I. ad Corneliam',
             meter: 'Phalaecean',
-            commentaria: 'app/img/1.pdf',
+            commentaria: 'app/img/1.png',
             latin: `Cui dono lepidum novum libellum<br>
 arida modo pumice expolitum?<br>
 Corneli, tibi: namque tu solebas<br>
@@ -31,7 +31,7 @@ let it last, for more lives than one.<br>`
             id: 2,
             caput: 'II. fletus passeris Lesbiae',
             meter: 'Phalaecean',
-            commentaria: 'none',
+            commentaria: 'app/img/2.png',
             latin: `Passer, deliciae meae puellae,<br>
 quicum ludere, quem in sinu tenere,<br>
 cui primum digitum dare adpetenti<br>
@@ -65,7 +65,7 @@ that loosed her belt, too long tied.<br></p>
             id: 3,
             caput: 'III. fletus passeris Lesbiae',
             meter: 'Phalaecean',
-            commentaria: 'none',
+            commentaria: 'app/img/3.png',
             latin: `Lugete, o Veneres Cupidinesque<br>
 et quantum est hominum venustiorum!<br>
 passer mortuus est meae puellae,<br>

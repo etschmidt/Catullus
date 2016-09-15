@@ -8,7 +8,7 @@ import { CarmenDetailComponent } from './carmen-detail.component';
 const appRoutes: Routes = [
 	{
 	  path: '',
-	  redirectTo: '/5',
+	  redirectTo: '/1',
 	  pathMatch: 'full'
 	},
 	{

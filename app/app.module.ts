@@ -8,6 +8,7 @@ import { CatullusComponent } from './catullus.component';
 import { AboutComponent } from './about.component';
 
 import { SearchPipe } from './search.pipe';
+import { KeysPipe } from './keys.pipe';
 import { CarmenService } from './carmen.service';
 import { routing } from './app.routing';
 
@@ -22,7 +23,8 @@ import { routing } from './app.routing';
 	  CarmenDetailComponent,
     CatullusComponent,
     AboutComponent,
-    SearchPipe
+    SearchPipe,
+    KeysPipe
   ],
   providers: [
   	CarmenService
